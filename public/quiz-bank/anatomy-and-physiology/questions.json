@@ -1,0 +1,2311 @@
+{
+  "course": "Massage Therapy",
+  "exam": "Anatomy & Physiology",
+  "version": 1,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "Which of these skeletal muscles is a type of pennate muscle?",
+      "choices": [
+        "Pectoralis major",
+        "Gastrocnemius",
+        "Deltoid",
+        "Orbicularis oris"
+      ],
+      "correctAnswer": "Deltoid",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which sensory pathway links directly to the mamillary bodies of the limbic system to stimulate strong emotional and memory responses?",
+      "choices": [
+        "Olfactory",
+        "Gustatory",
+        "Touch",
+        "Visual"
+      ],
+      "correctAnswer": "Olfactory",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a part of the insertion of the iliocostalis?",
+      "choices": [
+        "spinous processes of thoracic vertebrae",
+        "transverse processes of lower cervicals",
+        "spinous processes of cervical vertebrae",
+        "ligamentum nuchae"
+      ],
+      "correctAnswer": "transverse processes of lower cervicals",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which term describes the process of moving air into and out of the lungs?",
+      "choices": [
+        "Pulmonary process",
+        "Inspiration",
+        "Respiration",
+        "Ventilation"
+      ],
+      "correctAnswer": "Ventilation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the primary muscle of respiration?",
+      "choices": [
+        "internal oblique",
+        "intercostals",
+        "transverse abdominis",
+        "diaphragm"
+      ],
+      "correctAnswer": "diaphragm",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Pollicus is to thumb as hallicus is to –",
+      "choices": [
+        "Pinky toe",
+        "Navicular",
+        "Great toe",
+        "Talus"
+      ],
+      "correctAnswer": "Great toe",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If the clavicle is shifted inferiorly suddenly, which muscle would become strained?",
+      "choices": [
+        "Thyrohyoid",
+        "Digastric",
+        "Mylohyoid",
+        "Platysma"
+      ],
+      "correctAnswer": "Platysma",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Glands, abdominal organs, and smooth muscle tissue are all examples of ___________.",
+      "choices": [
+        "endocrine organs",
+        "visceral receptors",
+        "somatic effectors",
+        "visceral effectors"
+      ],
+      "correctAnswer": "visceral effectors",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the quadratus lumborum?",
+      "choices": [
+        "posterior iliac crest",
+        "anterior iliac crest",
+        "spinous processes of lumbar vertebrae",
+        "eleventh rib"
+      ],
+      "correctAnswer": "posterior iliac crest",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which toe contains only two phalanges?",
+      "choices": [
+        "first",
+        "fourth",
+        "fifth",
+        "third"
+      ],
+      "correctAnswer": "first",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Locating the last rib, posterior iliac crest and the transverse processes of the lumbar vertebrae will help you to isolate which muscle tissue?",
+      "choices": [
+        "iliocostalis",
+        "quadratus lumborum",
+        "intercostals",
+        "diaphragm"
+      ],
+      "correctAnswer": "quadratus lumborum",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the oblique capitis superior?",
+      "choices": [
+        "transverse process of the atlas (C-1)",
+        "ligamentum nuchae",
+        "spinous process of the axis (C-2)",
+        "transverse process of the axis (C-2)"
+      ],
+      "correctAnswer": "transverse process of the atlas (C-1)",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle runs from the hyoid to the superior border of the scapula and is mostly inaccessible?",
+      "choices": [
+        "omohyoid",
+        "sternohyoid",
+        "mylohyoid",
+        "digastric"
+      ],
+      "correctAnswer": "omohyoid",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The functions of the skeletal muscular system are to create movement of body parts, generate heat, and:",
+      "choices": [
+        "maintain upright posture.",
+        "serve as the body's largest sensory organ.",
+        "serve as the site for blood cell production.",
+        "protect the vital organs in the thorax."
+      ],
+      "correctAnswer": "maintain upright posture.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the movement.",
+      "image": "images/exam1/q15.png",
+      "choices": [
+        "ulnar deviation",
+        "Extension of wrist",
+        "Abduction of wrist",
+        "Adduction of thumb",
+        "Adduction of wrist",
+        "Extension of thumb",
+        "Abduction of thumb",
+        "Flexion of thumb",
+        "Opposition of thumb",
+        "Flexion of wrist"
+      ],
+      "correctAnswer": "Adduction of wrist",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these active transport mechanisms employs special transport proteins to move sodium, potassium, and calcium across cell membranes?",
+      "choices": [
+        "Pinocytosis",
+        "Osmosis",
+        "Phagocytosis",
+        "Ion pumps"
+      ],
+      "correctAnswer": "Ion pumps",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The three types of epithelial membranes in the body are the cutaneous, __________, and __________.",
+      "choices": [
+        "parietal; visceral",
+        "serous; mucous",
+        "serous; synovial",
+        "mucous; synovial"
+      ],
+      "correctAnswer": "serous; mucous",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "With your partner in a supine position, you can feel the tensor fasciae latae contract by asking your partner to perform what action at the hip?",
+      "choices": [
+        "adduction",
+        "medial rotation",
+        "extension",
+        "lateral rotation"
+      ],
+      "correctAnswer": "medial rotation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the type of joint.",
+      "image": "images/exam1/q19.png",
+      "choices": [
+        "Saddle",
+        "Pivot",
+        "Ellipsoid",
+        "Hinge",
+        "Ball-and-socket",
+        "Gliding"
+      ],
+      "correctAnswer": "Pivot",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which movement of the hip will lengthen the fibers of gluteus minimus?",
+      "choices": [
+        "abduction",
+        "medial rotation",
+        "flexion",
+        "adduction"
+      ],
+      "correctAnswer": "adduction",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The structures of the upper respiratory tract are:",
+      "choices": [
+        "nose, sinuses, pharynx, and larynx.",
+        "pharynx, larynx, and trachea.",
+        "sinuses, pharynx, larynx, and windpipe.",
+        "trachea, lungs, and bronchi."
+      ],
+      "correctAnswer": "nose, sinuses, pharynx, and larynx.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The majority of hormones are classified as __________.",
+      "choices": [
+        "steroidal",
+        "lipid-soluble",
+        "prostaglandins",
+        "water-soluble"
+      ],
+      "correctAnswer": "water-soluble",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle lies superficial to the sciatic nerve and can compress the nerve if overcontracted?",
+      "choices": [
+        "obturator externus",
+        "tensor fasciae latae",
+        "piriformis",
+        "quadratus femoris"
+      ],
+      "correctAnswer": "piriformis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a part of the insertion of the spinalis?",
+      "choices": [
+        "spinous processes of cervicals, except C-1",
+        "transverse processes of cervicals, except C-1",
+        "transverse processes of all cervical vertebrae",
+        "spinous processes of all cervical vertebrae"
+      ],
+      "correctAnswer": "spinous processes of cervicals, except C-1",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The round middle section of the stomach is called the pylorus.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": "False",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What organ produces prolactin?",
+      "choices": [
+        "Adrenal medulla",
+        "Adrenal cortex",
+        "Posterior pituitary",
+        "Anterior pituitary"
+      ],
+      "correctAnswer": "Anterior pituitary",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Oxygen and carbon dioxide are exchanged between the lungs and blood via what structure(s)?",
+      "choices": [
+        "Respiratory mucosa",
+        "Respiratory membrane",
+        "Ciliary membrane",
+        "Bronchioles and alveoli"
+      ],
+      "correctAnswer": "Respiratory membrane",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of muscle contraction increases muscle tension but does not result in movement?",
+      "choices": [
+        "Isometric",
+        "Eccentric",
+        "Isotonic",
+        "Tonic"
+      ],
+      "correctAnswer": "Isometric",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To locate the supraspinatus belly, you must palpate through which muscle?",
+      "choices": [
+        "deltoid",
+        "levator scapula",
+        "infraspinatus",
+        "trapezius"
+      ],
+      "correctAnswer": "trapezius",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the designation for the spinal nerve between the seventh cervical and first thoracic vertebrae?",
+      "choices": [
+        "T1",
+        "T2",
+        "C8",
+        "C7"
+      ],
+      "correctAnswer": "C8",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What medical term means the expected progression or outcome of a specific pathology?",
+      "choices": [
+        "Etiology",
+        "Prognosis",
+        "Sequela",
+        "Diagnosis"
+      ],
+      "correctAnswer": "Prognosis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How many TRUE ribs are in the rib cage?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correctAnswer": "7",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The subclavius attaches to which two bony landmarks?",
+      "choices": [
+        "clavicle and lateral sternum",
+        "first rib and clavicle",
+        "first rib and coracoid process",
+        "coracoid process and clavicle"
+      ],
+      "correctAnswer": "first rib and clavicle",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these synovial joints is a good example of a gliding joint?",
+      "choices": [
+        "Radioulnar",
+        "Tibiotalar",
+        "Intervertebral facets",
+        "Metacarpophalangeal"
+      ],
+      "correctAnswer": "Intervertebral facets",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Saltatory nerve impulse conduction only occurs on what kind of neuron?",
+      "choices": [
+        "Myelinated",
+        "Unmyelinated",
+        "Spinal",
+        "Cranial"
+      ],
+      "correctAnswer": "Myelinated",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What landmark term is used to describe a large depression in a bone?",
+      "choices": [
+        "Fissure",
+        "Fossa",
+        "Foramen",
+        "Fovea"
+      ],
+      "correctAnswer": "Fossa",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which artery is often used for taking the pulse at the wrist?",
+      "choices": [
+        "carotid artery",
+        "ulnar artery",
+        "radial artery",
+        "brachial artery"
+      ],
+      "correctAnswer": "radial artery",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the biceps brachii?",
+      "choices": [
+        "abduct the shoulder",
+        "depress the scapula",
+        "pronate the forearm",
+        "flex the elbow"
+      ],
+      "correctAnswer": "flex the elbow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The stress response in the pituitary gland that is stimulated by the hypothalamus to release GH, TSH, and ACTH to help the body continue its fight against stressors is called the __________.",
+      "choices": [
+        "pituitary response",
+        "eustress phase",
+        "resistance reaction",
+        "inflammatory phase"
+      ],
+      "correctAnswer": "resistance reaction",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Applying a massage stroke upon the thenar eminence will make contact with the –",
+      "choices": [
+        "Flexor Digiti Minimi",
+        "Extensor Digiti Minimi",
+        "Opponens Pollicus",
+        "Extensor Pollicus Longus"
+      ],
+      "correctAnswer": "Opponens Pollicus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which bone is rapidly elevating and depressing when someone raps words quickly?",
+      "choices": [
+        "Mandible",
+        "Maxilla",
+        "Sphenoid",
+        "Frontal"
+      ],
+      "correctAnswer": "Mandible",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of muscle contraction maintains our posture and each muscle’s state of readiness to contract fully?",
+      "choices": [
+        "Tonic",
+        "Tetanic",
+        "Isometric",
+        "Isotonic"
+      ],
+      "correctAnswer": "Tonic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "According to Trail Guide to the Body, which centrally located structure serves as a “base camp” for finding other bony landmarks of the shoulder?",
+      "choices": [
+        "spine of the scapula",
+        "superior angle of the scapula",
+        "medial border of the scapula",
+        "acromion"
+      ],
+      "correctAnswer": "spine of the scapula",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive elevation of the mandible would ____________________ the masseter.",
+      "choices": [
+        "shorten",
+        "lengthen"
+      ],
+      "correctAnswer": "shorten",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As a group, the transversospinalis muscles can be most easily located in which area?",
+      "choices": [
+        "posterior sacrum",
+        "lamina groove of thoracic and lumbar vertebrae",
+        "along the superior nuchal line",
+        "lamina groove of cervical vertebrae"
+      ],
+      "correctAnswer": "lamina groove of thoracic and lumbar vertebrae",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To access the medial portion of the subscapular fossa, how should you position your partner?",
+      "choices": [
+        "sidelying, with arm reaching overhead",
+        "prone, with arm out to the side",
+        "prone, with arm reaching overhead",
+        "sidelying, flexing your partner’s shoulder"
+      ],
+      "correctAnswer": "sidelying, flexing your partner’s shoulder",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the function of primary lymphoid tissues?",
+      "choices": [
+        "Production of antibodies",
+        "Primary site of immune responses",
+        "Production of the lymphocytes",
+        "Site of B lymphocyte maturation"
+      ],
+      "correctAnswer": "Production of the lymphocytes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How many bones comprise the foot?",
+      "choices": [
+        "24",
+        "18",
+        "14",
+        "26"
+      ],
+      "correctAnswer": "26",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which category of muscle architecture is described as a muscle with a broad belly and parallel fascicles with same-length fibers that taper to form cord-like tendons at the ends?",
+      "choices": [
+        "Triangular",
+        "Fusiform",
+        "Unipennate",
+        "Bipennate"
+      ],
+      "correctAnswer": "Fusiform",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which portion of the serratus anterior is most accessible?",
+      "choices": [
+        "medial border of the scapula",
+        "lateral border of the scapula",
+        "anterior ribs near sternum",
+        "inferior to the axilla"
+      ],
+      "correctAnswer": "inferior to the axilla",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The proximal end of the first metatarsal articulates with which bone?",
+      "choices": [
+        "cuboid",
+        "navicular",
+        "medial cuneiform",
+        "middle cuneiform"
+      ],
+      "correctAnswer": "medial cuneiform",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What glial tissue insulates and protects the axons of peripheral nerves?",
+      "choices": [
+        "Neurilemma",
+        "Endoglia",
+        "Myelin",
+        "Microglia"
+      ],
+      "correctAnswer": "Myelin",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Memory B cells require an introduction to the antigen by antigen-presenting cells to become activated.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an accurate description of a motor unit?",
+      "choices": [
+        "1 sensory neuron + 1 motor neuron + 1 muscle",
+        "1 motor neuron + multiple muscle fibers",
+        "1 motor neuron + multiple sarcomeres",
+        "Multiple motor neurons + multiple muscle fibers"
+      ],
+      "correctAnswer": "1 motor neuron + multiple muscle fibers",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the extensor hallucis longus?",
+      "choices": [
+        "invert the foot",
+        "abduct the first toe",
+        "flex the first toe",
+        "plantar flex the ankle"
+      ],
+      "correctAnswer": "invert the foot",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "After a bout of extended exercise, the breathing rate remains elevated for the amount of time it takes to metabolize lactic acid, which is called:",
+      "choices": [
+        "indirect phosphorylation.",
+        "metabolic replenishment.",
+        "repaying the oxygen debt.",
+        "the Krebs cycle."
+      ],
+      "correctAnswer": "repaying the oxygen debt.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the palmaris longus?",
+      "choices": [
+        "adduct the wrist",
+        "assist with pronation of forearm",
+        "flex the wrist",
+        "extend the elbow"
+      ],
+      "correctAnswer": "flex the wrist",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of nonproductive contraction occurs when the muscle is bombarded with a constant stream of stimuli that causes the muscle to “lock”?",
+      "choices": [
+        "Eccentric",
+        "Tonic",
+        "Tetanic",
+        "Isometric"
+      ],
+      "correctAnswer": "Tetanic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which cranial bones merge at the body’s midline to form the sagittal suture?",
+      "choices": [
+        "frontal",
+        "parietal",
+        "sphenoid",
+        "temporal"
+      ],
+      "correctAnswer": "parietal",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "According to the word parts, the term phlebitis means what?",
+      "choices": [
+        "Inflamed and swollen",
+        "Narrow passageway",
+        "Full veins",
+        "Inflammation of veins"
+      ],
+      "correctAnswer": "Inflammation of veins",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is a part of the origin of the soleus?",
+      "choices": [
+        "tibial tubercle",
+        "condyles of the femur",
+        "head of the tibia",
+        "soleal line"
+      ],
+      "correctAnswer": "soleal line",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these watersheds will carry fluid into the superficial inguinal nodes?",
+      "choices": [
+        "Sole of the foot",
+        "Anterior leg and thigh",
+        "Posterior calf",
+        "Anterior thigh only"
+      ],
+      "correctAnswer": "Anterior leg and thigh",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which term means “to examine or explore by touching (an organ or area of the body), usually as a diagnostic aid”?",
+      "choices": [
+        "investigation",
+        "massage",
+        "assessment",
+        "palpation"
+      ],
+      "correctAnswer": "palpation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which scapular landmark is felt most lateral upon the scapula bone?",
+      "choices": [
+        "Coracoid process",
+        "Inferior angle",
+        "Lateral margin",
+        "Acromion"
+      ],
+      "correctAnswer": "Acromion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A client laying prone on the table receives a stretch involving the therapist bending their leg making the client’s foot contact the gluteals. Which muscle group has been stretched?",
+      "choices": [
+        "Adductors",
+        "Hamstrings",
+        "Gluteals",
+        "Quadriceps"
+      ],
+      "correctAnswer": "Quadriceps",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When accessing the iliacus from its lateral edge, you must palpate deep to which muscle tissue?",
+      "choices": [
+        "abdominals",
+        "rectus femoris",
+        "sartorius",
+        "psoas major"
+      ],
+      "correctAnswer": "abdominals",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the anatomic term for the small region around the belly button?",
+      "choices": [
+        "Hypogastric",
+        "Gastric",
+        "Abdominal",
+        "Umbilical"
+      ],
+      "correctAnswer": "Umbilical",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Palpating the small bump posterior to one’s ear is to touch the –",
+      "choices": [
+        "Temporal mastoid process",
+        "Zygomatic arch",
+        "Hyoid bone",
+        "Temporal styloid process"
+      ],
+      "correctAnswer": "Temporal mastoid process",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The renal corpuscle of a nephron is a combination of what two structures?",
+      "choices": [
+        "Proximal and distal corpuscles",
+        "Renal and adipose capsules",
+        "Bowman’s capsule and glomerulus",
+        "Glomerulus and proximal tubule"
+      ],
+      "correctAnswer": "Bowman’s capsule and glomerulus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What connective element of skeletal muscle is described as the tenoperiosteal junction?",
+      "choices": [
+        "The fibrous connective tissue between the periosteum and tendon",
+        "The broad sheet of tissue that surrounds the muscle as a whole",
+        "The transitional tissue zone between the muscle and tendon",
+        "The point where epi-, peri-, and endomysium blend into a single fibrous cord"
+      ],
+      "correctAnswer": "The fibrous connective tissue between the periosteum and tendon",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What method of stimulus is used between the hypothalamus and the anterior pituitary gland?",
+      "choices": [
+        "Hormonal",
+        "Positive feedback",
+        "Indirect",
+        "Neurologic"
+      ],
+      "correctAnswer": "Hormonal",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Anatomically speaking, the term “proximal” provides what directional information?",
+      "choices": [
+        "the structure is closer to the knee",
+        "the structure is on a limb, closer to the trunk",
+        "the structure is further away from the trunk or the body’s midline",
+        "the structure is closer to the body’s surface"
+      ],
+      "correctAnswer": "the structure is on a limb, closer to the trunk",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Restrictions of cerebral spinal fluid flow may be due to muscular tension of the –",
+      "choices": [
+        "Splenius Capitus",
+        "Rectus Capitis Posterior Minor",
+        "Rectus Capitis Posterior Major",
+        "Splenius Cervicus"
+      ],
+      "correctAnswer": "Rectus Capitis Posterior Minor",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Compounds that release hydroxide ions in water are called __________ and they are designated as such by having a pH value __________.",
+      "choices": [
+        "bases; over 7",
+        "acids; over 7",
+        "acids; under 7",
+        "bases; under 7"
+      ],
+      "correctAnswer": "bases; over 7",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When stretching the Hamstring muscle group, which muscle is shortening?",
+      "choices": [
+        "Popliteus",
+        "Gastrocnemius",
+        "Rectus Femoris",
+        "Biceps Femoris"
+      ],
+      "correctAnswer": "Rectus Femoris",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the longus capitis?",
+      "choices": [
+        "posterior surface of trachea and cricoid cartilage",
+        "transverse processes of C-3 through C-6",
+        "superior nuchal line of occiput",
+        "spinous processes of C-3 through C-6"
+      ],
+      "correctAnswer": "transverse processes of C-3 through C-6",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which movement would lengthen the fibers of the quadratus lumborum on the right side of the body?",
+      "choices": [
+        "extension of the vertebral column",
+        "lateral flexion to the left",
+        "lateral flexion to the right",
+        "elevation of the hip"
+      ],
+      "correctAnswer": "lateral flexion to the left",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of neuron connects sensory and motor pathways?",
+      "choices": [
+        "Associative",
+        "Unipolar",
+        "Receptors",
+        "Multipolar"
+      ],
+      "correctAnswer": "Associative",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the function of antimicrobial proteins?",
+      "choices": [
+        "First line of internal nonspecific defense",
+        "Activates killer and helper T cells",
+        "Maturation of T cells in thymus",
+        "Specific immune enzyme that creates cytolysis of microbes"
+      ],
+      "correctAnswer": "First line of internal nonspecific defense",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What body system plays a major role in immunity and is responsible for returning proteins and fluids back into the bloodstream?",
+      "choices": [
+        "Digestive",
+        "Lymphatic",
+        "Respiratory",
+        "Cardiovascular"
+      ],
+      "correctAnswer": "Lymphatic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which abdominal muscle creates the “washboard” look?",
+      "choices": [
+        "rectus abdominis",
+        "internal oblique",
+        "external oblique",
+        "transverse abdominis"
+      ],
+      "correctAnswer": "rectus abdominis",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The body region term for the area between the mons (or scrotum in males) and the anus is perineum.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the multifidi?",
+      "choices": [
+        "posterior iliac crest and spinous processes of all vertebrae",
+        "sacrum and transverse processes of lumbar through thoracic vertebrae",
+        "posterior iliac crest, transverse processes of lumbar through cervical vertebrae",
+        "sacrum and transverse processes of lumbar through cervical vertebrae"
+      ],
+      "correctAnswer": "sacrum and transverse processes of lumbar through cervical vertebrae",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the digastric?",
+      "choices": [
+        "greater horn of hyoid",
+        "styloid process",
+        "lesser horn of hyoid",
+        "mastoid process"
+      ],
+      "correctAnswer": "mastoid process",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle acts as a synergist with fibularis longus during eversion of the foot?",
+      "choices": [
+        "tibialis anterior",
+        "extensor digitorum longus",
+        "extensor hallucis longus",
+        "tibialis posterior"
+      ],
+      "correctAnswer": "extensor digitorum longus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the iliocostalis?",
+      "choices": [
+        "laterally flex vertebral column to the same side",
+        "rotate vertebral column to the same side",
+        "rotate vertebral column to the opposite side",
+        "flex the vertebral column"
+      ],
+      "correctAnswer": "laterally flex vertebral column to the same side",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the anatomic name for the intersection between the transverse colon and the descending colon?",
+      "choices": [
+        "Hepatic flexure",
+        "Sigmoid flexure",
+        "Transverso-inferior flexure",
+        "Splenic flexure"
+      ],
+      "correctAnswer": "Splenic flexure",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which lymphatic vessels are the primary vessels for lymph transportation?",
+      "choices": [
+        "Initial vessels",
+        "Anastomosis",
+        "Collectors",
+        "Pre-collectors"
+      ],
+      "correctAnswer": "Collectors",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Functions of the skeletal system can be summarized as providing framework, protection of vital organs, levers for movement, __________, and __________.",
+      "choices": [
+        "calcium storage; vitamin D synthesis",
+        "storage of energy; blood production",
+        "cellular maturation; blood cell recycling",
+        "blood cell production; calcium storage"
+      ],
+      "correctAnswer": "blood cell production; calcium storage",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Not including the iliotibial tract, how many distinct tendons are located on the posterior knee?",
+      "choices": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctAnswer": "4",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these structures is part of the lower respiratory tract?",
+      "choices": [
+        "Larynx",
+        "Pharynx",
+        "Lungs",
+        "Epiglottis"
+      ],
+      "correctAnswer": "Lungs",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle acts as an antagonist to the gastrocnemius during plantar flexion?",
+      "choices": [
+        "soleus",
+        "tibialis anterior",
+        "fibularis brevis",
+        "plantaris"
+      ],
+      "correctAnswer": "tibialis anterior",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the external and internal intercostals?",
+      "choices": [
+        "inferior border of the rib above",
+        "fascia surrounding the lungs",
+        "superior border of the rib above",
+        "manubrium and sternum"
+      ],
+      "correctAnswer": "inferior border of the rib above",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a part of the origin of the iliocostalis?",
+      "choices": [
+        "spinous processes of lumbar vertebrae",
+        "posterior surfaces of ribs 1 - 12",
+        "posterior surfaces of ribs 3 - 9",
+        "transverse processes of lumbar vertebrae"
+      ],
+      "correctAnswer": "posterior surfaces of ribs 1 - 12",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What cellular component is considered the “second messenger” that stimulates the target cell response to a hormone?",
+      "choices": [
+        "RNA",
+        "ADP",
+        "IMPs",
+        "cAMP"
+      ],
+      "correctAnswer": "cAMP",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The distal projection off the fibula is called the __________.",
+      "choices": [
+        "head of the fibula",
+        "lateral malleolus",
+        "crest of the fibula",
+        "medial malleolus"
+      ],
+      "correctAnswer": "lateral malleolus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the insertion of the adductor brevis?",
+      "choices": [
+        "pectineal line and lateral lip of linea aspera",
+        "pectineal line and medial lip of linea aspera",
+        "pectineal line",
+        "medial lip of linea aspera"
+      ],
+      "correctAnswer": "pectineal line and medial lip of linea aspera",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the two divisions of cardiovascular circulation?",
+      "choices": [
+        "Pulmonary and systemic",
+        "Arterial and venous",
+        "Delivery and return",
+        "Cardiac and full body"
+      ],
+      "correctAnswer": "Pulmonary and systemic",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "In the quadrant method of dividing the abdominopelvic cavity, the vertical and horizontal lines intersect at the umbilicus.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the triceps brachii’s long head?",
+      "choices": [
+        "infraglenoid tubercle of the scapula",
+        "posterior surface of distal half of humerus",
+        "olecranon process of the ulna",
+        "posterior surface of proximal half of humerus"
+      ],
+      "correctAnswer": "infraglenoid tubercle of the scapula",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive flexion of the fifth toe would ____________________ the abductor digiti minimi.",
+      "choices": [
+        "shorten",
+        "lengthen"
+      ],
+      "correctAnswer": "shorten",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The term used to describe the balance of tension and compression forces in the musculoskeletal system is __________.",
+      "choices": [
+        "thixotropy",
+        "piezoelectricity",
+        "tensegrity",
+        "viscoelasticity"
+      ],
+      "correctAnswer": "tensegrity",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What urinary organ is responsible for carrying urine from the kidneys to the bladder?",
+      "choices": [
+        "Perirenal tubule",
+        "Urethra",
+        "Ureter",
+        "Upper urinary tract"
+      ],
+      "correctAnswer": "Ureter",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the name of the straight distal portion of the colon just proximal to the anus?",
+      "choices": [
+        "Sigmoid colon",
+        "Annular antechamber",
+        "Descending colon",
+        "Rectum"
+      ],
+      "correctAnswer": "Rectum",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which junction can be found just medial and inferior to the PSIS?",
+      "choices": [
+        "sacroiliac joint",
+        "lumbosacral joint",
+        "coxalfemoral joint",
+        "pubic symphysis"
+      ],
+      "correctAnswer": "sacroiliac joint",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The dorsal surface of the foot is home to which muscle?",
+      "choices": [
+        "extensor digitorum brevis",
+        "flexor digitorum brevis",
+        "abductor digiti minimi",
+        "abductor hallucis"
+      ],
+      "correctAnswer": "extensor digitorum brevis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the anatomic name for a skeletal muscle cell?",
+      "choices": [
+        "Muscle fiber",
+        "Sarcomere",
+        "Myofilament",
+        "Myofibril"
+      ],
+      "correctAnswer": "Muscle fiber",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What shape are most motor neurons?",
+      "choices": [
+        "Tripolar",
+        "Unipolar",
+        "Multipolar",
+        "Bipolar"
+      ],
+      "correctAnswer": "Multipolar",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle attachment is generally on the bone that moves during any motion?",
+      "choices": [
+        "Medial",
+        "Origin",
+        "Insertion",
+        "Proximal"
+      ],
+      "correctAnswer": "Insertion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What CNS structure serves as the control center for the autonomic nervous system?",
+      "choices": [
+        "Hypothalamus",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Thalamus"
+      ],
+      "correctAnswer": "Hypothalamus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive pronation of the forearm would ____________________ the biceps brachii.",
+      "choices": [
+        "Shorten",
+        "Lengthen"
+      ],
+      "correctAnswer": "Lengthen",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the soleus?",
+      "choices": [
+        "extend the knee",
+        "flex the knee",
+        "dorsiflex the ankle",
+        "plantar flex the ankle"
+      ],
+      "correctAnswer": "plantar flex the ankle",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which form of edema develops as the sequel to cancer treatments that damage or remove lymph nodes?",
+      "choices": [
+        "Dynamic edema",
+        "Traumatic edema",
+        "Secondary lymphedema",
+        "Primary lymphedema"
+      ],
+      "correctAnswer": "Secondary lymphedema",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What area of the body is described as the inguinal region?",
+      "choices": [
+        "Low back",
+        "Ears",
+        "Groin",
+        "Anterior thigh"
+      ],
+      "correctAnswer": "Groin",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the name of the physiologic theory that explains the relationship between muscle length and the force generated by its contraction?",
+      "choices": [
+        "Length–strength ratio",
+        "Positional contraction force",
+        "Force generation ratio",
+        "Long force theory"
+      ],
+      "correctAnswer": "Length–strength ratio",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The best example of a saddle joint in the body is the articulation between what bones?",
+      "choices": [
+        "Occipital bone and the first cervical vertebra",
+        "Proximal and distal phalanges of the thumb",
+        "Proximal row of carpals and radius",
+        "Trapezium and first metacarpal"
+      ],
+      "correctAnswer": "Trapezium and first metacarpal",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the three defining characteristics of the specific immune responses?",
+      "choices": [
+        "Inflammation, phagocytosis, creates memory",
+        "Specificity, system-wide, reproducible",
+        "Specificity, lymphocyte responses, creates memory",
+        "Fever, antibody production, all leukocytes engaged"
+      ],
+      "correctAnswer": "Specificity, lymphocyte responses, creates memory",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Spinal and vertebral are both terms used to describe the backbone region.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which bones form the toes?",
+      "choices": [
+        "cuneiforms",
+        "metatarsals",
+        "tarsals",
+        "phalanges"
+      ],
+      "correctAnswer": "phalanges",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How does the combination of the Swedish massage strokes petrissage and effleurage help reduce traumatic edema?",
+      "choices": [
+        "It stimulates lymph flow and edema uptake.",
+        "Petrissage loosens up the swelling, and effleurage mechanically drains the fluid.",
+        "It shifts interstitial fluid into undamaged areas with more blood and lymph vessels.",
+        "Effleurage increases circulation, and petrissage stimulates edema uptake."
+      ],
+      "correctAnswer": "It shifts interstitial fluid into undamaged areas with more blood and lymph vessels.",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Bone landmarks are of particular importance to manual therapists because they help to inform the location of internal organs, nerves, and blood vessels.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which structure spans from the lower lumbar vertebrae and sacrum, between the ischial tuberosity and greater trochanter and down the posterior thigh?",
+      "choices": [
+        "femoral nerve",
+        "sciatic nerve",
+        "posterior sacroiliac ligament",
+        "iliolumbar ligament"
+      ],
+      "correctAnswer": "sciatic nerve",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The term for the mixture of food and digestive enzymes in the stomach is chyle.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the semitendinosus?",
+      "choices": [
+        "lateral lip of linea aspera",
+        "ischial tuberosity",
+        "intertrochanteric crest of the femur",
+        "medial lip of linea aspera"
+      ],
+      "correctAnswer": "ischial tuberosity",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a part of the insertion of the longus colli?",
+      "choices": [
+        "spinous processes of upper three cervical vertebrae",
+        "transverse processes of C-7 and T-1",
+        "inferior surface of occiput",
+        "bodies of axis, C-3 and C-4"
+      ],
+      "correctAnswer": "bodies of axis, C-3 and C-4",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which bone is located at the posterior and inferior aspects of the cranium?",
+      "choices": [
+        "temporal",
+        "parietal",
+        "frontal",
+        "occiput"
+      ],
+      "correctAnswer": "occiput",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the movement.",
+      "image": "images/exam2/q27.png",
+      "choices": [
+        "Extension of fingers",
+        "Flexion of fingers",
+        "Abduction of fingers",
+        "Adduction of fingers"
+      ],
+      "correctAnswer": "Extension of fingers",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which bony landmark of the occiput serves as an attachment site for several neck muscles?",
+      "choices": [
+        "inferior nuchal line",
+        "external occipital protuberance",
+        "superior nuchal line",
+        "mastoid process"
+      ],
+      "correctAnswer": "superior nuchal line",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of joint is capable of movement in every plane?",
+      "choices": [
+        "gliding",
+        "ball-and-socket",
+        "pivot",
+        "ellipsoid"
+      ],
+      "correctAnswer": "ball-and-socket",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What movement will lengthen the fibers of brachialis?",
+      "choices": [
+        "extension of the wrist",
+        "extension of the elbow",
+        "flexion of the elbow",
+        "flexion of the wrist"
+      ],
+      "correctAnswer": "extension of the elbow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When palpating with one hand on top of the other, the top hand directs movement and depth. What does the bottom hand do?",
+      "choices": [
+        "becomes limp",
+        "stays receptive",
+        "presses in at a 90-degree angle",
+        "grasps the tissues"
+      ],
+      "correctAnswer": "stays receptive",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Functions of the urinary system help to regulate body fluid, pH, and electrolyte balances by:",
+      "choices": [
+        "secreting hormones into the bloodstream.",
+        "coordinating the nutrient–waste exchange.",
+        "filtering blood of metabolic wastes and eliminating them.",
+        "excreting solid and liquid wastes."
+      ],
+      "correctAnswer": "filtering blood of metabolic wastes and eliminating them.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the anatomic name for “hand bones”?",
+      "choices": [
+        "Phalanges",
+        "Metacarpals",
+        "Metatarsals",
+        "Carpals"
+      ],
+      "correctAnswer": "Metacarpals",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is an anastomosis?",
+      "choices": [
+        "The segment of skin where the initial vessels merge into pre-collectors",
+        "The area in the torso where the umbilical watershed line intersects with the sagittal watershed line",
+        "A group of connected pre-collector capillaries situated end to end",
+        "A string of lymph nodes not found in a catchment"
+      ],
+      "correctAnswer": "A group of connected pre-collector capillaries situated end to end",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the name of the protective sac that encloses the testes?",
+      "choices": [
+        "Seminal vesicle",
+        "Scrotum",
+        "Spermatic sac",
+        "Vas deferens"
+      ],
+      "correctAnswer": "Scrotum",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the anconeus?",
+      "choices": [
+        "lateral epicondyle of the humerus",
+        "medial epicondyle of the humerus",
+        "olecranon process of the ulna",
+        "shaft of the radius"
+      ],
+      "correctAnswer": "lateral epicondyle of the humerus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT a function of the cardiovascular system?",
+      "choices": [
+        "Supports immune response and tissue healing",
+        "Controls fluid volumes and cellular sensitivity to stimulus",
+        "Transports nutrients, waste, and hormones",
+        "Regulates heat and pH"
+      ],
+      "correctAnswer": "Controls fluid volumes and cellular sensitivity to stimulus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Approximately how much fluid does the lymphatic system return to the cardiovascular system each day?",
+      "choices": [
+        "5 liters",
+        "10 milliliters",
+        "3 liters",
+        "1 liter"
+      ],
+      "correctAnswer": "3 liters",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the movement.",
+      "image": "images/exam2/q39.png",
+      "choices": [
+        "Adduction of wrist",
+        "Opposition of thumb",
+        "Abduction of wrist",
+        "Flexion of thumb",
+        "Extension of wrist",
+        "Abduction of thumb",
+        "Extension of thumb",
+        "Adduction of thumb",
+        "Flexion of wrist"
+      ],
+      "correctAnswer": "Extension of thumb",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive elevation of the scapula would __________________ the trapezius’ upper fibers.",
+      "choices": [
+        "Shorten",
+        "Lengthen"
+      ],
+      "correctAnswer": "Shorten",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What division of circulation is defined as the blood flow circuit between the heart and lungs?",
+      "choices": [
+        "Systemic",
+        "Respiratory loop",
+        "Pulmonary",
+        "Cardiorespiratory"
+      ],
+      "correctAnswer": "Pulmonary",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which bony landmark is often horizontal to the level of the spinous processes of T-2?",
+      "choices": [
+        "superior angle of the scapula",
+        "inferior angle of the scapula",
+        "twelfth rib",
+        "base of the neck"
+      ],
+      "correctAnswer": "superior angle of the scapula",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Fixed macrophages are found in the skin, superficial fascia, liver, and spleen.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of joint is found between the carpals as well as the tarsals?",
+      "choices": [
+        "ellipsoid",
+        "hinge",
+        "saddle",
+        "gliding"
+      ],
+      "correctAnswer": "gliding",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The ABCD warning signs of skin cancer stand for Asymmetry, Borders, __________, and __________ .",
+      "choices": [
+        "Color; Direction",
+        "Clarity; Diameter",
+        "Color; Diameter",
+        "Combined; Depressed"
+      ],
+      "correctAnswer": "Color; Diameter",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The human skeleton must be strong, firm, and inflexible in order to provide a definitive frame that moves and responds to mechanical stress.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which portion of the spinal cord is called the ascending tract?",
+      "choices": [
+        "Sensory tract",
+        "Motor tract",
+        "Ventral pathway",
+        "Lateral horn"
+      ],
+      "correctAnswer": "Sensory tract",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When throwing a ball, which muscle is responsible for bringing my arm backwards before it swings forward?",
+      "choices": [
+        "Subscapularis",
+        "Deltoid",
+        "Serratus Anterior",
+        "Pectoralis Major"
+      ],
+      "correctAnswer": "Deltoid",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which structure, that passes between the medial epicondyle of the humerus and olecranon process, creates the “funny bone” sensation?",
+      "choices": [
+        "median nerve",
+        "radial nerve",
+        "brachial artery",
+        "ulnar nerve"
+      ],
+      "correctAnswer": "ulnar nerve",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the movement.",
+      "choices": [
+        "Depression/Collapse of Ribs",
+        "Elevation/Expansion of ribs"
+      ],
+      "correctAnswer": "Elevation/Expansion of ribs",
+      "explanation": "",
+      "image": "images/exam2/q50.png"
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The anterior surface of the medial border of the scapula serves as an attachment site for which muscle?",
+      "choices": [
+        "latissimus dorsi",
+        "serratus anterior",
+        "rhomboids",
+        "supraspinatus"
+      ],
+      "correctAnswer": "serratus anterior",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What muscle group around the hip joint would act as antagonists to hip abduction?",
+      "choices": [
+        "Hamstrings",
+        "Lateral rotators",
+        "Quadriceps",
+        "Adductors"
+      ],
+      "correctAnswer": "Adductors",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the digastric?",
+      "choices": [
+        "laterally deviate the mandible",
+        "elevate the mandible",
+        "depress the hyoid bone",
+        "retract the mandible"
+      ],
+      "correctAnswer": "retract the mandible",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Reciprocal inhibition means that when the agonist is signaled to contract, the antagonist receives a simultaneous signal that inhibits contraction.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Elevating the ventral part of the ribs would ____________________ the external intercostals.",
+      "choices": [
+        "shorten",
+        "lengthen"
+      ],
+      "correctAnswer": "shorten",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "To feel the middle fibers of the trapezius contract, you could ask your prone partner to perform which action?",
+      "choices": [
+        "“Bring your shoulder up off the table.”",
+        "“Place your hand in the small of your back.”",
+        "“Raise your head up slightly.”",
+        "“Lift your arm above your head”"
+      ],
+      "correctAnswer": "“Bring your shoulder up off the table.”",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The distal one-third of each kidney is protected by the ilium.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the oblique capitis superior?",
+      "choices": [
+        "transverse process of the atlas (C-1)",
+        "ligamentum nuchae",
+        "transverse process of the axis (C-2)",
+        "spinous process of the axis (C-2)"
+      ],
+      "correctAnswer": "transverse process of the atlas (C-1)",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Swinging my leg backwards to prepare to kick a soccer ball forward creates __________ of the hip.",
+      "choices": [
+        "Flexion",
+        "Internal Rotation",
+        "External Rotation",
+        "Extension"
+      ],
+      "correctAnswer": "Extension",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The baroreceptors that sense blood pressure are located in what major blood vessel?",
+      "choices": [
+        "Carotid artery",
+        "Jugular vein",
+        "Pulmonary artery",
+        "Abdominal aorta"
+      ],
+      "correctAnswer": "Carotid artery",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the diaphragm?",
+      "choices": [
+        "compress the lung tissue",
+        "decrease the volume of thoracic cavity",
+        "elevate rib cage",
+        "increase the volume of thoracic cavity"
+      ],
+      "correctAnswer": "increase the volume of thoracic cavity",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these is a noncontagious skin disorder?",
+      "choices": [
+        "Boils",
+        "Ringworm",
+        "Carbuncles",
+        "Urticaria"
+      ],
+      "correctAnswer": "Urticaria",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Approximately what percentage of blood volume is plasma?",
+      "choices": [
+        "55%",
+        "95%",
+        "10%",
+        "30%"
+      ],
+      "correctAnswer": "55%",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the target organ for pineal gland secretions?",
+      "choices": [
+        "All cells of the body",
+        "Brain",
+        "Pancreas",
+        "Kidneys"
+      ],
+      "correctAnswer": "Brain",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The palpable edge of which bone runs the length of the forearm?",
+      "choices": [
+        "ulna",
+        "humerus",
+        "metacarpal",
+        "radius"
+      ],
+      "correctAnswer": "ulna",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Both ADH and aldosterone help the urinary system regulate and balance fluids by:",
+      "choices": [
+        "changing the filtration rate of the nephrons.",
+        "initiating the RAA pathway to increase fluid intake.",
+        "inhibiting the micturition reflex of the bladder.",
+        "increasing water retention by the kidneys."
+      ],
+      "correctAnswer": "increasing water retention by the kidneys.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which movement of the scapula would lengthen the fibers of rhomboids major and minor?",
+      "choices": [
+        "depression",
+        "adduction",
+        "downward rotation",
+        "elevation"
+      ],
+      "correctAnswer": "depression",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "A watershed is a structural barrier that divides the body into several independent drainage regions.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the gluteus minimus?",
+      "choices": [
+        "lateral surface of pubis and ilium",
+        "internal surface of the ilium between anterior and posterior gluteal lines",
+        "ischial tuberosity",
+        "gluteal surface of the ilium between anterior and inferior gluteal lines"
+      ],
+      "correctAnswer": "gluteal surface of the ilium between anterior and inferior gluteal lines",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which type of bone cell is the only one capable of mitosis?",
+      "choices": [
+        "Osteoblast",
+        "Osteoclast",
+        "Osteogenic",
+        "Osteocyte"
+      ],
+      "correctAnswer": "Osteogenic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The three regulatory mechanisms for heart rate are (1) ANS control from the cardiovascular centers in the brain stem; (2) changes in blood levels of sodium, calcium, and potassium; and (3):",
+      "choices": [
+        "chemoreceptor monitoring and regulation of blood pH.",
+        "hormone secretions that increase general metabolic rate.",
+        "cardiac control centers in the parasympathetic ganglia.",
+        "limbic system regulation of basal metabolism."
+      ],
+      "correctAnswer": "hormone secretions that increase general metabolic rate.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive rotation of the head and neck to the left would ____________________ the left trapezius’ upper fibers.",
+      "choices": [
+        "Shorten",
+        "Lengthen"
+      ],
+      "correctAnswer": "Lengthen",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which urinary organ serves as the site for urine storage?",
+      "choices": [
+        "Urethra",
+        "Bladder",
+        "Kidneys",
+        "Ureters"
+      ],
+      "correctAnswer": "Bladder",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which action is most likely to stimulate the inverse stretch reflex?",
+      "choices": [
+        "Stretch sustained for more than 30 seconds",
+        "Sudden stretch of a muscle that has been held in a shortened position",
+        "Compression of the neuromuscular junction",
+        "Bouncing type of stretches"
+      ],
+      "correctAnswer": "Bouncing type of stretches",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Urticaria is a noncontagious skin condition commonly known as hives.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which four carpals serve as attachment sites for the flexor retinaculum?",
+      "choices": [
+        "hamate, triquetrum, lunate, scaphoid",
+        "scaphoid, trapezium, pisiform, hamate",
+        "lunate, pisiform, hamate, capitate",
+        "pisiform, trapezoid, scaphoid, trapezium"
+      ],
+      "correctAnswer": "scaphoid, trapezium, pisiform, hamate",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following are considered the two primary internal forces for creating and maintaining lymph flow?",
+      "choices": [
+        "Soft-tissue stretch and release",
+        "Siphon effect and autonomic angion contraction",
+        "Arterial pulse and angion contraction",
+        "Respiratory and skeletal muscle pumps"
+      ],
+      "correctAnswer": "Siphon effect and autonomic angion contraction",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Noradrenaline is the neurotransmitter used by the postganglionic neuron in the sympathetic motor pathway.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these watersheds will carry fluid into the superficial inguinal nodes?",
+      "choices": [
+        "Sole of the foot",
+        "Anterior leg and thigh",
+        "Anterior thigh only",
+        "Posterior calf"
+      ],
+      "correctAnswer": "Anterior leg and thigh",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these is the best definition of homeostasis?",
+      "choices": [
+        "The process of sensing and responding to changes in the external environment",
+        "The constant monitoring and regulation of all body responses",
+        "The cooperative functions between body systems",
+        "A range of physiologic balance, or dynamic state of equilibrium within the body"
+      ],
+      "correctAnswer": "A range of physiologic balance, or dynamic state of equilibrium within the body",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which movement of the hip will shorten the fibers of the iliacus?",
+      "choices": [
+        "abduction with hip in neutral",
+        "lateral rotation",
+        "extension",
+        "abduction with hip flexed"
+      ],
+      "correctAnswer": "lateral rotation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which movement involves a combination of flexion, extension, adduction and abduction?",
+      "choices": [
+        "rotation",
+        "circumduction",
+        "lateral flexion",
+        "dorsiflexion"
+      ],
+      "correctAnswer": "circumduction",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Blood is a type of connective tissue.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What membrane covers the organs in the abdominopelvic cavity?",
+      "choices": [
+        "Parietal peritoneum",
+        "Visceral pleura",
+        "Visceral peritoneum",
+        "Parietal pleura"
+      ],
+      "correctAnswer": "Visceral peritoneum",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The ability to control urination is a learned behavior because the external sphincter is voluntary muscle.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How can you passively position the foot to shorten the surrounding tissue of the medial malleolar groove?",
+      "choices": [
+        "inversion",
+        "dorsiflexion",
+        "eversion",
+        "plantar flexion"
+      ],
+      "correctAnswer": "inversion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an action of the subscapularis?",
+      "choices": [
+        "laterally rotate the shoulder",
+        "flex the shoulder",
+        "medially rotate the shoulder",
+        "extend the shoulder"
+      ],
+      "correctAnswer": "medially rotate the shoulder",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Most hormones are lipid-soluble and are made from cholesterol and amino acids.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of cell makes up the impulse-conducting tissue in the nervous system?",
+      "choices": [
+        "Glial",
+        "Neuron",
+        "Neuroglia",
+        "Myoneural"
+      ],
+      "correctAnswer": "Neuron",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Where does the chemical digestion of carbohydrates begin?",
+      "choices": [
+        "Esophagus",
+        "Mouth",
+        "Stomach",
+        "Small intestine"
+      ],
+      "correctAnswer": "Mouth",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these changes from manual therapy is considered a physiologic effect?",
+      "choices": [
+        "Decreased anxiety",
+        "Improved sleep patterns",
+        "Improved mental focus",
+        "Improved local fluid flow"
+      ],
+      "correctAnswer": "Improved local fluid flow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The sacrotuberous ligament can be effected directly by tightness of the –",
+      "choices": [
+        "Gluteus Maximus",
+        "Tensor Fascia Lata",
+        "Gluteus Minimus",
+        "Gluteus Medius"
+      ],
+      "correctAnswer": "Gluteus Maximus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What system is responsible for elimination of solid wastes and breaking down food into usable nutrients?",
+      "choices": [
+        "Cardiovascular",
+        "Endocrine",
+        "Urinary",
+        "Digestive"
+      ],
+      "correctAnswer": "Digestive",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these bones is classified as a cuboid bone?",
+      "choices": [
+        "Skull",
+        "Scapula",
+        "Calcaneus",
+        "Vertebra"
+      ],
+      "correctAnswer": "Calcaneus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Besides being smooth in appearance, the other distinction of visceral muscle is that its contractions are:",
+      "choices": [
+        "Multidirectional",
+        "Autonomic",
+        "Voluntary",
+        "Involuntary"
+      ],
+      "correctAnswer": "Involuntary",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which scapular fossa can be isolated by placing your fingers on the spine of the scapula, the medial border and lateral border?",
+      "choices": [
+        "infraspinous",
+        "supraspinous",
+        "subscapular",
+        "teres"
+      ],
+      "correctAnswer": "infraspinous",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In the small gap between which two structures are the flexors of the ankle and toes accessible?",
+      "choices": [
+        "tibial shaft and edge of calcaneal tendon",
+        "medial malleolus and flexor retinaculum",
+        "tibial shaft and fibulares",
+        "lateral malleolus and edge of calcaneal tendon"
+      ],
+      "correctAnswer": "tibial shaft and edge of calcaneal tendon",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Passive abduction of the scapula would ____________________ the serratus anterior.",
+      "choices": [
+        "Shorten",
+        "Lengthen"
+      ],
+      "correctAnswer": "Shorten",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The trochanteric bursa reduces friction between the greater trochanter and which muscle?",
+      "choices": [
+        "tensor fasciae latae",
+        "vastus lateralis",
+        "gluteus maximus",
+        "gluteus medius"
+      ],
+      "correctAnswer": "gluteus maximus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In Trail Guide to the Body, what type of movement is used to distinguish the lengths, shapes and edges of muscles and tendons?",
+      "choices": [
+        "resisted",
+        "passive",
+        "active",
+        "contracted"
+      ],
+      "correctAnswer": "resisted",
+      "explanation": ""
+    }
+  ]
+}

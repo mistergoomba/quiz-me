@@ -1,0 +1,938 @@
+{
+  "course": "Massage Therapy",
+  "exam": "Business",
+  "version": 1,
+  "questions": [
+    {
+      "type": "true_false",
+      "question": "The initial phone interview is a good time to discuss what to expect in a typical session and let the client ask questions, and to establish boundaries, structure, and a sense of safety before the first session",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Sexual misconduct is not limited to sexual relations, rather it occurs when:",
+      "choices": [
+        "A client propositions a practitioner, making the treatment awkward",
+        "The boundaries of either the practitioner or the client are violated",
+        "A therapeutic relationship is threatened by sexual behaviors",
+        "Practitioners trigger unwanted sexual feelings in their clients"
+      ],
+      "correctAnswer": "A therapeutic relationship is threatened by sexual behaviors",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is the best option to improve the energy flow in a treatment room?",
+      "choices": [
+        "Place fresh flowers in each room",
+        "Incorporate a variety of sensations",
+        "Make Feng shui adaptations",
+        "Place spiritual symbols throughout"
+      ],
+      "correctAnswer": "Make Feng shui adaptations",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "HIPAA assigns a unique identifier for providers, employers, health plans, and clients",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Informed consent is most critical in the context of surgery, anesthesia, and other interventions associated with direct physical risk, but is of little concern in much less consequential procedures.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "When working with a survivor it is important to keep strong time boundaries during the treatment unless there are exceptional circumstances",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT true about assertive language? It:",
+      "choices": [
+        "Is useful for setting boundaries",
+        "Sends a strong emotional message",
+        "Communicates a message clearly",
+        "Includes “I” statements"
+      ],
+      "correctAnswer": "Sends a strong emotional message",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Providing suggested questions for an interview allows the interviewee to shape the program and helps ensure coverage of the important points",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which term best describes a practitioner’s character who has good boundaries, good hygiene, excellent time management skills, integrity, flexibility, and loyalty?",
+      "choices": [
+        "Professional",
+        "Positive attitude",
+        "Respectful",
+        "Solution-oriented"
+      ],
+      "correctAnswer": "Professional",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the 3 C’s of effective sales?",
+      "choices": [
+        "Consultation, convenience, and compliance",
+        "Consultation, convenience, and cost",
+        "Clients, concerns, and convenience",
+        "Cost, convenience, and compliance"
+      ],
+      "correctAnswer": "Consultation, convenience, and compliance",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following attributes best describes being inspired by the joy of accomplishment?",
+      "choices": [
+        "Motivation due to fear",
+        "Competitive motivation",
+        "Self-motivation",
+        "Motivation due to incentive"
+      ],
+      "correctAnswer": "Self-motivation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner has begun the process for selling their business utilizing the Eight Selling Stages. The practitioner has reviewed their motives, analyzed their business, and assembled a team of advisers. Of the Eight Selling Stages, what is the next course of action?",
+      "choices": [
+        "Transition the business",
+        "Prepare the business for sale",
+        "Set a selling price",
+        "Market the sale"
+      ],
+      "correctAnswer": "Set a selling price",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner decides to enter into a sexual relationship with a former client. Which of the following best describes the risk to the practitioner?",
+      "choices": [
+        "Vicarious traumatization",
+        "Transference",
+        "Emotional distress",
+        "Projection"
+      ],
+      "correctAnswer": "Emotional distress",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Limited Liability Companies provide a shield from personal liability",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_answer",
+      "question": "Choose which of the below ethical considerations are the responsibility of the employee (select all that apply):",
+      "choices": [
+        "Security",
+        "Fairness and Diversity",
+        "Loyalty",
+        "Integrity",
+        "Safety",
+        "Cooperation",
+        "Obligation",
+        "Commitment"
+      ],
+      "correctAnswers": [
+        "Loyalty",
+        "Cooperation",
+        "Obligation",
+        "Commitment"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "If there exists a power differential between two individuals in a work setting, the power differential can be temporarily reversed if the roles change",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner works in an upscale day spa in a small town. Many people are related to each other and “everyone knows everyone.” One of her favorite and enjoyable clients, has been asking her questions about another spa guest. What should the practitioner do to avoid upsetting, and possibly losing, the client?",
+      "choices": [
+        "Explain to the client about her ethical commitment to confidentiality and is uncomfortable with the questions",
+        "Have the spa manager deal directly with the client about questions",
+        "Recommend the client see another therapist",
+        "Tell the client she will answer the question if the client promises not to disclose the source of the answer"
+      ],
+      "correctAnswer": "Explain to the client about her ethical commitment to confidentiality and is uncomfortable with the questions",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following reflects the Pareto principle?",
+      "choices": [
+        "25% of your activities produce 80% of your results",
+        "80% of your activities produce 20% of your results",
+        "20% of your activities produce 100% of your results",
+        "25% of your activities produce 75% of your results"
+      ],
+      "correctAnswer": "80% of your activities produce 20% of your results",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "To save time and money when hiring an administrative staff person, a good option is to utilize a temporary employment agency",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Employers are often held legally responsible for the actions of their employees",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The main purpose of a petty cash fund is to pay for incidental expenses",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a benefit of being a mentor?",
+      "choices": [
+        "Improving communications skills",
+        "Finding someone to listen",
+        "Increasing income",
+        "Evaluating the competition"
+      ],
+      "correctAnswer": "Improving communications skills",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "When entering into a group practice, clearly written agreements with the other practitioners in the group are vital to avoid entanglements and misunderstandings",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes why students are at particular risk of developing dual relationships? They:",
+      "choices": [
+        "Find the emotional aspects of school overwhelming",
+        "Develop close friendships with their classmates",
+        "Are less mature and don’t recognize the risks",
+        "Often develop instructional and therapeutic relationships with their instructors"
+      ],
+      "correctAnswer": "Often develop instructional and therapeutic relationships with their instructors",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Both practitioners and clients sometimes experience sexual feelings during a treatment session",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes what is required for success in retailing?",
+      "choices": [
+        "Use a 30-50% mark-up of products",
+        "Choose products that are a direct extension of your work",
+        "Carry at least 10 different products",
+        "Discuss the products’ benefits during sessions with clients"
+      ],
+      "correctAnswer": "Choose products that are a direct extension of your work",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is an appropriate practitioner response to a client’s strong emotional response?",
+      "choices": [
+        "Use hands-on work to increase the potential for emotional release",
+        "Defuse the situation and change the focus of the session",
+        "Educate the client about the meaning and significance of the emotions",
+        "Ask questions to determine the root cause of the reaction"
+      ],
+      "correctAnswer": "Defuse the situation and change the focus of the session",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "If a client has only experienced touch in situations that are sexual the client may be more likely to interpret therapeutic touch as sexual as well",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The difference between a boundary crossing and a boundary violation depends upon the circumstances.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Professionalism includes flexibility and loyalty",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "In healthcare malpractice actions, all healthcare practitioners are held to the same general standard of care as physicians",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Personal budgeting is the best way to create a realistic financial picture",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner’s office was burglarized. The computers were stolen and the office vandalized. Which of the following would have best ensured that the practitioner would have access to their records?",
+      "choices": [
+        "Incorporating a risk management protocol",
+        "Purchasing insurance on the computers",
+        "Making hard copy files of all documents",
+        "Running daily cloud computer backups"
+      ],
+      "correctAnswer": "Running daily cloud computer backups",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes what contracts are particularly good for helping people navigate?",
+      "choices": [
+        "Legalities of unethical business behavior",
+        "The end of a working relationship",
+        "Disputes that take place in working relationships",
+        "Times when a working relationship is going really well"
+      ],
+      "correctAnswer": "The end of a working relationship",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "A company that sells items from various manufacturers is known as a distributor",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes how a practitioner ethically sells products?",
+      "choices": [
+        "Manage product sales in the same manner as rest of the practice",
+        "Only suggest products as solutions to problems for which a client has asked help",
+        "Don’t ask a client to buy a product; let the display do the selling",
+        "Restrict product sales to items that are used in sessions"
+      ],
+      "correctAnswer": "Manage product sales in the same manner as rest of the practice",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What component from the list below is considered necessary to be included in an operations overview?",
+      "choices": [
+        "Budget",
+        "Income projections",
+        "Policies and procedures",
+        "Startup costs"
+      ],
+      "correctAnswer": "Policies and procedures",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Safety is always a consideration, but more so for someone in private practice",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The memory spectrum includes which types of memories?",
+      "choices": [
+        "Integrated, unintegrated, and flashbacks",
+        "Physical, emotional, and mental",
+        "Abuse, trauma, and neutral",
+        "Good, bad, and ugly"
+      ],
+      "correctAnswer": "Integrated, unintegrated, and flashbacks",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Generally speaking, when a practitioner works with an infant or young child, a parent or caretaker should always be present",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Working with an accountant to find ways to reduce tax liability is not usually ethical",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describe why non-fraternization policies are important?",
+      "choices": [
+        "Protecting the reputation of a school",
+        "Power differential that exists between teachers and students",
+        "Transference issues that cause students to pursue teachers",
+        "Tendency of teachers to show favoritism to their best students"
+      ],
+      "correctAnswer": "Power differential that exists between teachers and students",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "It is important to establish the day-to-day activities of a practice (office logistics) along with objective consequences for when a person doesn’t fulfill their agreed obligations",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What term does age, income level, occupation, gender, and education level describe?",
+      "choices": [
+        "Analyses",
+        "Psychographics",
+        "Statistics",
+        "Demographics"
+      ],
+      "correctAnswer": "Demographics",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "When considering office design, the focus should be on appealing to the majority of clients while being inoffensive to them all",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "An individual is often considered an independent contractor when working at locations such as spas, gyms, or doctors’ offices",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The best thing about unredeemed gift certificates is they add extra money for no work into your bottom line",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner has recently moved into a new area. They need to bring income into their household immediately. Which of the following settings would be most conducive to their immediate needs?",
+      "choices": [
+        "Associate in a group practice",
+        "Specialty center",
+        "Partner in a group practice",
+        "Wellness Center"
+      ],
+      "correctAnswer": "Specialty center",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Is there such a thing as equitable, mutual consent in creating a personal and social dual relationship between a healthcare practitioner and a client?",
+      "choices": [
+        "Yes, if they are both adults",
+        "No, because there is a power differential",
+        "Yes, depending on the maturity of the client",
+        "No, because there is transference and countertransference"
+      ],
+      "correctAnswer": "No, because there is a power differential",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The primary benefit of barter is:",
+      "choices": [
+        "It is an efficient way to conserve cash outlays",
+        "Reducing income tax liability",
+        "It provides practitioners with good discounts",
+        "Getting items that would not have been purchased if they had to be paid for in currency"
+      ],
+      "correctAnswer": "It is an efficient way to conserve cash outlays",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following most accurately characterizes clinical supervision?",
+      "choices": [
+        "Provided by the educational institution the practitioner attended",
+        "A condition of employment, but not an aspect of self-employment",
+        "A place to receive appreciation for good and useful work",
+        "Required in states with licensing boards and regulatory agencies"
+      ],
+      "correctAnswer": "A place to receive appreciation for good and useful work",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "As long as a practitioner does their job well, clients will be pleased regardless of whether or not the clerical support staff is friendly and competent",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the intention of an abuser towards the abused? To:",
+      "choices": [
+        "Harm",
+        "Dominate",
+        "Weaken",
+        "Devalue"
+      ],
+      "correctAnswer": "Dominate",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "One way to broaden employment possibilities for working in a Primary Healthcare setting is by learning a variety of techniques for assorted medical conditions",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner has observed that his clients who have fibromyalgia respond well to a new technique he has recently acquired. What is the process called that could determine if such a correlation exists",
+      "choices": [
+        "The Pareto Principle",
+        "The scientific method of research",
+        "Professional Development",
+        "Research Literacy"
+      ],
+      "correctAnswer": "The scientific method of research",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What fee commission structure is common with a barter exchange?",
+      "choices": [
+        "5 - 10%",
+        "10 - 15%",
+        "15 - 20%",
+        "3 - 5%"
+      ],
+      "correctAnswer": "10 - 15%",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The body of a cover letter establishes rapport and communicates your interest",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following regulatory methods offers no consumer protection?",
+      "choices": [
+        "Licensure",
+        "Registration",
+        "Title Protection",
+        "Certification"
+      ],
+      "correctAnswer": "Title Protection",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following marketing activities best describes community relations?",
+      "choices": [
+        "Paying indirectly for visibility by printing business cards",
+        "Providing goodwill by sponsoring an “adopt a highway” activity",
+        "Paying directly for visibility by placing a listing in a local newspaper",
+        "Getting media coverage by being interviewed by a television station"
+      ],
+      "correctAnswer": "Providing goodwill by sponsoring an “adopt a highway” activity",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which part of the business plan is an outline of the organization, procedures, and policies of the business?",
+      "choices": [
+        "Risk Assessment",
+        "Financial Analysis",
+        "Operations",
+        "Success Strategies"
+      ],
+      "correctAnswer": "Operations",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is a defense mechanism in which a person unconsciously rejects his or her own unacceptable attributes, thoughts, or feelings by ascribing them to objects or other people?",
+      "choices": [
+        "Denial",
+        "Suppression",
+        "Projection",
+        "Deflection"
+      ],
+      "correctAnswer": "Projection",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes prejudice?",
+      "choices": [
+        "A pre-formed opinion (usually unfavorable) based on inadequate knowledge or inaccurate stereotypes",
+        "The adoption of an oversimplified opinion or image of another group of people",
+        "The belief that one's ethnicity is superior to, or significantly different from, another person's ethnicity",
+        "Treatment of a person not based on individual merit, but on the group, class, or category to which that person belongs"
+      ],
+      "correctAnswer": "A pre-formed opinion (usually unfavorable) based on inadequate knowledge or inaccurate stereotypes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner is joining in with two of their friends from school to create a group practice. What course of action should be taken to ensure fairness in shared items such as expenses, scheduling, and office logistics?",
+      "choices": [
+        "Make a list of each person’s responsibilities and post them",
+        "Have a lawyer draw up a legally binding partnership contract",
+        "Obtain a clear, written agreement with the others in the group",
+        "Make a verbal agreement since all of the involved are friends"
+      ],
+      "correctAnswer": "Obtain a clear, written agreement with the others in the group",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The energetic boundary involves the effects of a person’s emotional and mental state that are not expressed verbally or physically.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The client should not withdraw consent once written informed consent has been agreed upon and contractually carried out",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "matching",
+      "question": "Match the word with the definition:",
+      "prompts": [
+        "A system or code of moral principles and conduct",
+        "Personal beliefs relating to what is right or wrong",
+        "Personal beliefs relating to what is good and worthy",
+        "Enforceable societal rules of conduct"
+      ],
+      "choices": [
+        "Ethics",
+        "Morals",
+        "Values",
+        "Laws"
+      ],
+      "correctAnswers": {
+        "A system or code of moral principles and conduct": "Ethics",
+        "Personal beliefs relating to what is right or wrong": "Morals",
+        "Personal beliefs relating to what is good and worthy": "Values",
+        "Enforceable societal rules of conduct": "Laws"
+      },
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following items are the rarest in a service profession?",
+      "choices": [
+        "Insurance reimbursement",
+        "Sliding fee scale",
+        "Package plans",
+        "Credit terms"
+      ],
+      "correctAnswer": "Credit terms",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When creating a business plan, what is the component that states the highlights of the plan?",
+      "choices": [
+        "Owner’s Statement",
+        "Executive summary",
+        "Success Strategies",
+        "Mission Statement"
+      ],
+      "correctAnswer": "Executive summary",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are two types of barter?",
+      "choices": [
+        "Direct and indirect",
+        "Non-taxable and indirect",
+        "Direct and exchanges",
+        "Exchanges and non-taxable"
+      ],
+      "correctAnswer": "Direct and exchanges",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "A practitioner cannot be held personally responsible for debts and legal obligations incurred by a partnership",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "If a practitioner doesn’t incorporate, create a partnership, or form an LLC, the business is automatically considered a sole proprietorship",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "It is best to wait until you have graduated before initiating a job search",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Being overwhelmed by a task often leads to procrastination",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In building professional alliances, sending a mailing to targeted healthcare professionals is an example of which approach?",
+      "choices": [
+        "Open-door",
+        "Side-door",
+        "Front-door",
+        "Back-door"
+      ],
+      "correctAnswer": "Front-door",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When creating a business proposal for a corporate wellness program at a large company, which of the following is the key piece of information to getting the contract approved?",
+      "choices": [
+        "How much they will charge each employee for the sessions",
+        "The amount of time needed to complete the sessions",
+        "The type of session they will be administering",
+        "The return on investment benefits for the employer"
+      ],
+      "correctAnswer": "The return on investment benefits for the employer",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Operational guidelines make the transition easier if a practitioner hires new employees or expands",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "It is preferable that other people understand you first. Once you are certain they understand you, you can work toward understanding them",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "It is acceptable to take deductions for pro bono work",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is the best example of a breech in confidentiality?",
+      "choices": [
+        "Discussing a child’s complaint about a caregiver’s treatment with an official",
+        "Reporting to authorities when there’s suspicion that a client is neglecting an elderly parent",
+        "Agreeing to surrender a client’s files to the court in relation to a personal injury case",
+        "Telling a client’s partner about a potential health issue the client won’t deal with"
+      ],
+      "correctAnswer": "Telling a client’s partner about a potential health issue the client won’t deal with",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Comorbidity is the presence of more than one disease and/or condition",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Accidental touch is something an intentional practitioner:",
+      "choices": [
+        "Doesn’t have to worry about",
+        "Plans for to keep interactions professional",
+        "Expects to happen in spite of best efforts",
+        "Avoids at all costs"
+      ],
+      "correctAnswer": "Plans for to keep interactions professional",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "It is easy to find a supervisor once a practitioner has the numbers for the supervision sources for national associations",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "matching",
+      "question": "Match the terms with the best definition:",
+      "prompts": [
+        "Hyperarousal",
+        "Re-experiencing",
+        "Post Traumatic Stress Disorder (PTSD)",
+        "Avoidance"
+      ],
+      "choices": [
+        "A state of constant alertness to danger experienced by the survivor of trauma",
+        "Vivid memories of past traumatic events interrupting the course of life in the present",
+        "A mental health condition that’s triggered by a terrifying event",
+        "The survivor becomes numb and psychologically removed from the pain of an event"
+      ],
+      "correctAnswers": {
+        "Hyperarousal": "A state of constant alertness to danger experienced by the survivor of trauma",
+        "Re-experiencing": "Vivid memories of past traumatic events interrupting the course of life in the present",
+        "Post Traumatic Stress Disorder (PTSD)": "A mental health condition that’s triggered by a terrifying event",
+        "Avoidance": "The survivor becomes numb and psychologically removed from the pain of an event"
+      },
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Goals that are SMARTER are Specific, Measurable, Attainable, Realistic, Timelined, Enthusiastic, and Rewarding",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best course of action before signing an employment agreement?",
+      "choices": [
+        "Have it reviewed by a mentor",
+        "Make certain the salary is correct",
+        "Have it reviewed by a legal advisor",
+        "Make certain the benefits are stated"
+      ],
+      "correctAnswer": "Have it reviewed by a legal advisor",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Accepting referral payments is essentially a kick-back and is unethical and in some cases illegal",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "To turn dreams into reality, set goals",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "“Ethics,” “Values,” “Morals” and “Principles” refer to the same concept.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Childhood emotional abuse may take the form of not responding consistently to the child’s emotional needs, and not being able to express appropriate emotion to the child, as well as neglect",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Supervision is a nourishing, protective, and creative endeavor that benefits the practitioner and the client, but not the supervisor",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Choose the FALSE statement:",
+      "choices": [
+        "The power differential is increased by the therapist by leaning over the client.",
+        "The power differential is decreased by meeting the client’s body language, energy and positioning.",
+        "The power differential is increased by the client reclining on the examination/treatment table.",
+        "The power differential is eliminated as long as the power differential isn’t taken advantage of."
+      ],
+      "correctAnswer": "The power differential is eliminated as long as the power differential isn’t taken advantage of.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Casual conversation with a client can easily and subtly lead to which of the following inappropriate actions?",
+      "choices": [
+        "Self-disclosure",
+        "Questions",
+        "Advances",
+        "Touching"
+      ],
+      "correctAnswer": "Self-disclosure",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Strategic planning is the process of breaking down a difficult problem into manageable segments",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The best option to take when delivering uncomfortable information is to send an email",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Blaming others for our misfortunes is part of the Pareto Principle",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is better served by having flexible boundaries?",
+      "choices": [
+        "Receiving sexual advances from a client",
+        "Dealing with a chronically late client",
+        "Feeling uncomfortable around a client",
+        "Setting appointments with clients who have difficult schedules"
+      ],
+      "correctAnswer": "Setting appointments with clients who have difficult schedules",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "If a client repeatedly violates a boundary, even after a well-conducted confrontation meeting, it is still unethical for the practitioner to terminate the therapeutic relationship.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The key characteristic of an ethical dilemma is that something of value is compromised no matter what decision is made.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The definition of libel is defamation of character by:",
+      "choices": [
+        "Written words",
+        "Gestures",
+        "Spoken words",
+        "Written words or gestures"
+      ],
+      "correctAnswer": "Written words",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes the order that a practitioner should take when conducting a new client interview",
+      "choices": [
+        "Initiation, Planning, Assessment, Closure",
+        "Initiation, Assessment, Planning, Closure",
+        "Initiation, Exploration, Planning, Closure",
+        "Initiation, Planning, Exploration, Closure"
+      ],
+      "correctAnswer": "Initiation, Exploration, Planning, Closure",
+      "explanation": ""
+    }
+  ]
+}
