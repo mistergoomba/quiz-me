@@ -4,6 +4,49 @@ import type { Question } from "./quiz";
 // When the unseen pool empties, the cycle resets automatically.
 
 const SEEN_KEY = "quizme:seen";
+const SCORE_KEY = "quizme:score";
+
+// Running tally, persisted until the user resets. `answered` counts every
+// submitted question; `correct` counts the fully-correct ones.
+export interface Score {
+  correct: number;
+  answered: number;
+}
+
+const ZERO_SCORE: Score = { correct: 0, answered: 0 };
+
+export function loadScore(): Score {
+  if (typeof window === "undefined") return { ...ZERO_SCORE };
+  try {
+    const raw = window.localStorage.getItem(SCORE_KEY);
+    if (!raw) return { ...ZERO_SCORE };
+    const s = JSON.parse(raw) as Partial<Score>;
+    return {
+      correct: Number(s.correct) || 0,
+      answered: Number(s.answered) || 0,
+    };
+  } catch {
+    return { ...ZERO_SCORE };
+  }
+}
+
+export function saveScore(score: Score): void {
+  if (typeof window === "undefined") return;
+  try {
+    window.localStorage.setItem(SCORE_KEY, JSON.stringify(score));
+  } catch {
+    // ignore
+  }
+}
+
+export function resetScore(): void {
+  if (typeof window === "undefined") return;
+  try {
+    window.localStorage.removeItem(SCORE_KEY);
+  } catch {
+    // ignore
+  }
+}
 
 export function loadSeen(): Set<string> {
   if (typeof window === "undefined") return new Set();

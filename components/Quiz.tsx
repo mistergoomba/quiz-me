@@ -3,7 +3,16 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Question } from "@/lib/quiz";
-import { loadSeen, saveSeen, resetSeen, pickNext } from "@/lib/tracking";
+import {
+  loadSeen,
+  saveSeen,
+  resetSeen,
+  pickNext,
+  loadScore,
+  saveScore,
+  resetScore,
+  type Score,
+} from "@/lib/tracking";
 import { buildSearchUrl } from "@/lib/search";
 import {
   checkAnswer,
@@ -21,6 +30,7 @@ export default function Quiz({ questions }: { questions: Question[] }) {
   const [submitted, setSubmitted] = useState(false);
   const [wasCorrect, setWasCorrect] = useState(false);
   const [affirmation, setAffirmation] = useState("");
+  const [score, setScore] = useState<Score>({ correct: 0, answered: 0 });
   const [ready, setReady] = useState(false);
 
   // Advance to a new question, marking it seen as it's shown.
@@ -51,6 +61,7 @@ export default function Quiz({ questions }: { questions: Question[] }) {
   // Initialize on mount (localStorage is client-only).
   useEffect(() => {
     const initial = loadSeen();
+    setScore(loadScore());
     setReady(true);
     advance(initial);
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -64,6 +75,14 @@ export default function Quiz({ questions }: { questions: Question[] }) {
       setWasCorrect(correct);
       if (correct) setAffirmation(randomAffirmation());
       setSubmitted(true);
+      setScore((prev) => {
+        const next = {
+          correct: prev.correct + (correct ? 1 : 0),
+          answered: prev.answered + 1,
+        };
+        saveScore(next);
+        return next;
+      });
     },
     [current, submitted],
   );
@@ -72,6 +91,15 @@ export default function Quiz({ questions }: { questions: Question[] }) {
     if (!current) return;
     advance(seen, current.id);
   }, [advance, seen, current]);
+
+  // Wipe all progress: score + which questions have been asked.
+  const handleReset = useCallback(() => {
+    resetScore();
+    resetSeen();
+    setScore({ correct: 0, answered: 0 });
+    setSeen(new Set());
+    advance(new Set());
+  }, [advance]);
 
   if (!ready || !current) {
     return <main className="card">Loading…</main>;
@@ -83,12 +111,10 @@ export default function Quiz({ questions }: { questions: Question[] }) {
       : null;
 
   return (
+    <div className="shell">
     <main className="card">
       <header className="meta">
         <span className="badge">{current.exam}</span>
-        <span className="counter">
-          {seen.size} / {total} seen this cycle
-        </span>
       </header>
 
       <h1 className="question">{current.question}</h1>
@@ -116,6 +142,9 @@ export default function Quiz({ questions }: { questions: Question[] }) {
             </>
           )}
           {explanation && <p className="explanation">{explanation}</p>}
+          <p className="score">
+            {score.correct} out of {score.answered} correct
+          </p>
           <a
             className="explain-link"
             href={buildSearchUrl(current)}
@@ -133,6 +162,16 @@ export default function Quiz({ questions }: { questions: Question[] }) {
         </button>
       )}
     </main>
+
+      <div className="scoreboard">
+        <button className="reset" onClick={handleReset}>
+          Reset progress
+        </button>
+        <p className="asked">
+          {seen.size} / {total} questions asked
+        </p>
+      </div>
+    </div>
   );
 }
 

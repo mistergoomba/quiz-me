@@ -66,11 +66,6 @@ body {
   border-radius: 999px;
 }
 
-.counter {
-  font-size: 12px;
-  color: var(--muted);
-}
-
 .question {
   font-size: 20px;
   font-weight: 650;
@@ -274,6 +269,56 @@ body {
 
 .explain-link:hover {
   border-color: var(--muted);
+}
+
+.score {
+  margin: 12px 0 0;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.shell {
+  width: 100%;
+  max-width: 640px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.shell .card {
+  max-width: none;
+}
+
+.scoreboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.reset {
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 18px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.reset:hover {
+  border-color: var(--bad);
+  color: var(--bad);
+}
+
+.asked {
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
 }
 
 @media (max-width: 480px) {
