@@ -278,6 +278,10 @@ body {
   color: #2e8b57;
 }
 
+.score.low {
+  color: var(--bad);
+}
+
 .shell {
   width: 100%;
   max-width: 640px;

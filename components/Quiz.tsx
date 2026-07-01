@@ -161,7 +161,13 @@ export default function Quiz({ questions }: { questions: Question[] }) {
     </main>
 
       <div className="scoreboard">
-        <p className="score">
+        <p
+          className={`score${
+            score.answered > 0 && score.correct / score.answered < 0.6
+              ? " low"
+              : ""
+          }`}
+        >
           {score.correct} out of {score.answered} correct
         </p>
         <button className="reset" onClick={handleReset}>
