@@ -1,0 +1,2358 @@
+{
+  "course": "Massage Therapy",
+  "exam": "Massage Therapy",
+  "version": 1,
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question": "What are some symptoms that reliably affect adults with cerebral palsy?",
+      "choices": [
+        "Headache, stomachache",
+        "Peripheral neuralgia, fibromyalgia pain",
+        "Poor coordination, numbness in the extremities",
+        "Fatigue, inefficient movement"
+      ],
+      "correctAnswer": "Fatigue, inefficient movement",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which direction is the client's face and nose oriented when completing the \"Ear to Shoulder\" stretch in the NHI Shiatsu sequence?",
+      "choices": [
+        "Towards the mat",
+        "Away from the stretch",
+        "Towards the chest",
+        "Towards the ceiling"
+      ],
+      "correctAnswer": "Towards the ceiling",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Where is the sacrum located?",
+      "choices": [
+        "Neck",
+        "Midback",
+        "Upper back",
+        "Low back"
+      ],
+      "correctAnswer": "Low back",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When digestion is a low autonomic priority, what often happens in the GI tract?",
+      "choices": [
+        "Abdominal pain, scarring, fistulas",
+        "Nausea, vomiting, diarrhea",
+        "Diarrhea, bleeding, cramps",
+        "Indigestion, constipation, gas"
+      ],
+      "correctAnswer": "Indigestion, constipation, gas",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the most common form of melanoma?",
+      "choices": [
+        "Lentigo melanoma",
+        "Superficial spreading melanoma",
+        "Nodular melanoma",
+        "Acral lentiginous melanoma"
+      ],
+      "correctAnswer": "Superficial spreading melanoma",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following types of varicosity occurs on a very small scale? They are permanently dilated capillaries or venules clearly visible on the skin.",
+      "choices": [
+        "Hiatal hernias",
+        "Telangiectasias",
+        "Varicoceles",
+        "Esophageal varices"
+      ],
+      "correctAnswer": "Telangiectasias",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "You notice mid-session that your client has become tense and very quiet. He is awake, but does not respond to your questions. His breathing is shallow and rapid. What is your best response?",
+      "choices": [
+        "Stop the massage, make eye contact with him, and speak softly until he returns to responsiveness. Then determine whether it is appropriate to continue",
+        "Continue working, but begin chatting about light-hearted topics so he can focus on things that are not threatening",
+        "Keep working as usual; to stop will only embarrass him and make him more upset",
+        "Work more slowly and more deeply in the area where he began to “tune out”—this is a sign that he is close to a much-needed emotional release"
+      ],
+      "correctAnswer": "Stop the massage, make eye contact with him, and speak softly until he returns to responsiveness. Then determine whether it is appropriate to continue",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is an accommodation that a client with advanced osteoporosis might need?",
+      "choices": [
+        "Imaginative bolstering on the table",
+        "Clients with osteoporosis should not receive massage",
+        "Help getting off the table due to dizziness",
+        "Extra deep pressure on the paraspinals to undo chronic muscle spasm"
+      ],
+      "correctAnswer": "Imaginative bolstering on the table",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the most likely adverse effect of massage therapy for a client with an acute disc injury?",
+      "choices": [
+        "Massage may rupture a bulging disc, causing excessive internal inflammation",
+        "Massage may lead to cauda equina syndrome and a risk of permanent spinal cord damage",
+        "Working too lightly may be irritating for a person who needs firm pressure to manage his or her pain",
+        "Trying to address a protective muscle splinting pattern prematurely can cause more spasm and more pain"
+      ],
+      "correctAnswer": "Trying to address a protective muscle splinting pattern prematurely can cause more spasm and more pain",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client with acute adhesive capsulitis is likely to be using analgesics to help manage her pain. What does this mean for massage?",
+      "choices": [
+        "You can work more deeply and specifically to help “unglue” sticky layers of fascia",
+        "It is important to work conservatively to avoid overtreatment",
+        "You can add ice to your treatment because it will be less painful",
+        "She needs to reschedule her massage for when her adhesive capsulitis has resolved"
+      ],
+      "correctAnswer": "It is important to work conservatively to avoid overtreatment",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "“ABCDE” in the context of melanoma stands for …",
+      "choices": [
+        "Asymmetrical, borders, color, diameter, elevation",
+        "Asymmetrical, bolus, clear, diameter, erythema",
+        "Abrasion, bulla, callus, dermis, ecchymosis",
+        "Abnormal, broad, coarse, dry, empty"
+      ],
+      "correctAnswer": "Asymmetrical, borders, color, diameter, elevation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of cirrhosis?",
+      "choices": [
+        "An autoimmune attack against liver cells leads to excessive scar tissue",
+        "Healthy liver cells are replaced with scar tissue",
+        "A viral infection of the liver leads to cell death and lost function",
+        "Mutated cells in the liver interfere with normal function"
+      ],
+      "correctAnswer": "Healthy liver cells are replaced with scar tissue",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best definition of burns?",
+      "choices": [
+        "An event that kills cells through dry or wet thermal energy",
+        "Any trauma that kills cells through heat, electricity, chemical exposure, or radiation",
+        "Cells are damaged but not killed by heat, electricity, or radiation",
+        "Skin damage related to radiation exposure or electrical injury"
+      ],
+      "correctAnswer": "Any trauma that kills cells through heat, electricity, chemical exposure, or radiation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following kinds of aneurysms usually forms in the thorax or abdomen, widening the aorta for a short distance?",
+      "choices": [
+        "Saccular aneurysm",
+        "Fusiform aneurysm",
+        "Berry aneurysm",
+        "Dissecting aneurysm"
+      ],
+      "correctAnswer": "Fusiform aneurysm",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following are caution sites when working on the arm?",
+      "choices": [
+        "Medial upper arm, anatomical snuff box, cubital fossa, funny bone",
+        "Inguinal Ligament, IT Band, and Pes anserine",
+        "The dorsal side of the hands",
+        "Deltoid"
+      ],
+      "correctAnswer": "Medial upper arm, anatomical snuff box, cubital fossa, funny bone",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In which of the following conditions do tiny crystals in the inner ear fall out of place and cause the vestibular nerve to misfire, triggering extreme vertigo?",
+      "choices": [
+        "Meniere’s disease",
+        "Labyrinthitis",
+        "Benign paroxysmal positional vertigo",
+        "Perilymph fistula"
+      ],
+      "correctAnswer": "Benign paroxysmal positional vertigo",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Kai Zen, a 38-year software engineer has been complaining of chronic tension on his neck and shoulders. He finally booked a massage and the therapist performed a thorough interview and assessment.\n\nThe therapist was able to gather more information and found that Kai works long hours, never stretches or exercises. The therapist identified a forward head posture pattern as well as rigid and limited movement during head extension. Client also complained of nagging, dull pain at the base of his head.\n\nDuring re-assessment after the first session, Kai Zen reports a reduction in tension in pain through his neck and shoulders. He and the therapist identify some improvements to range of motion.\n\nWhat client education information could the massage therapist off to Kai?",
+      "choices": [
+        "Take regular stretch-breaks from his work.",
+        "Ensure Kai knows his behavior could lead to arthritis, nerve damage and additional reduced function when he is older.",
+        "Tell him to have his company provide an ergonomic specialist to adapt his work space.",
+        "None of these"
+      ],
+      "correctAnswer": "Take regular stretch-breaks from his work.",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the most reliable factors in developing varicose veins?",
+      "choices": [
+        "Being sedentary, tight shoes, frequent airplane travel",
+        "Age, gender, smoking, being under weight",
+        "History of deep vein thrombosis, weak calf muscles",
+        "Wear and tear, gravity, mechanical obstruction"
+      ],
+      "correctAnswer": "Wear and tear, gravity, mechanical obstruction",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What postural deviations would be seen on a client if the rectus abdominis fibers were shortened and unable to completely lengthen:",
+      "choices": [
+        "Spinal extension and a posterior tilt to the pelvis",
+        "Spinal flexion and a posterior tilt to the pelvis",
+        "Spinal extension and an anterior tilt to the pelvis",
+        "Spinal flexion and an anterior tilt to the pelvis"
+      ],
+      "correctAnswer": "Spinal flexion and a posterior tilt to the pelvis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_answer",
+      "question": "What are the common attributes of all Lymphatic Facilitation strokes and techniques?\n\n(Select all that apply)",
+      "choices": [
+        "Strokes are applied in the direction that facilitates normal lymph flow",
+        "Lots of lotion or oil must be used",
+        "Tissue must be fully released and allowed to \"snap back\" to its original position between strokes",
+        "Light pressure and a slight stretch to the skin",
+        "To be effective, stokes must be repeated 15 - 20 times over the same location"
+      ],
+      "correctAnswers": [
+        "Strokes are applied in the direction that facilitates normal lymph flow",
+        "Tissue must be fully released and allowed to \"snap back\" to its original position between strokes",
+        "Light pressure and a slight stretch to the skin"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Taylor is a 32-year-old client with knee pain who suffered a medial meniscus tear approximately 30 days ago. The client decided to do a conservative approach to treatment which includes exercises and massage. Taylor feels a lot of tension and pain in the quads that radiates into the knee and has trouble completely straightening the knee.\n\nSelect a muscle most likely involved with the decreased ROM indicated by the client experiencing trouble extending the knee?",
+      "choices": [
+        "Biceps femoris",
+        "Tibialis Anterior",
+        "Adductor magnus",
+        "Rectus femoris"
+      ],
+      "correctAnswer": "Biceps femoris",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_answer",
+      "question": "Massage techniques that flow away from the heart should be:\n\n(Choose all that apply)",
+      "choices": [
+        "Done the same as the strokes toward the heart",
+        "Finishing strokes",
+        "Light in pressure"
+      ],
+      "correctAnswers": [
+        "Finishing strokes",
+        "Light in pressure"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is a synonym for fungal infection of the skin?",
+      "choices": [
+        "Candida",
+        "St. Anthony’s fire",
+        "Wart",
+        "Ringworm"
+      ],
+      "correctAnswer": "Ringworm",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the best description of heart failure?",
+      "choices": [
+        "The heart muscle accumulates patchy areas of scar tissue from a long history of myocardial infarction",
+        "The heart lining wears away, opening the door to atherosclerosis inside the chambers",
+        "The heart muscle wears out, becomes distended and thin, and cannot pump enough blood to meet daily needs",
+        "The heart valves degenerate and allow backflow, mixing oxygenated and deoxygenated blood"
+      ],
+      "correctAnswer": "The heart muscle wears out, becomes distended and thin, and cannot pump enough blood to meet daily needs",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of prostate cancer?",
+      "choices": [
+        "The result of untreated benign prostatic hyperplasia",
+        "The growth of malignant cells in the prostate gland",
+        "Malignant cells travel to the prostate gland and create a new tumor",
+        "The growth of malignant cells in the prostate gland or urethra"
+      ],
+      "correctAnswer": "The growth of malignant cells in the prostate gland",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your healthy client has a large abrasion where she recently hit the pavement after a motorcycle accident. The area is covered by a bandage, but by the end of the session a small amount of blood is visible at the edges. Your best course of action is to …",
+      "choices": [
+        "Add non-chlorine bleach to your cool wash cycle",
+        "Wash the sheets on high heat, use bleach, dry on high heat",
+        "Discard the sheets, wrapped in a hazardous waste container",
+        "Turn the sheets over for the next client"
+      ],
+      "correctAnswer": "Wash the sheets on high heat, use bleach, dry on high heat",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client gets colds so frequently that he is in trouble for missing a lot of work. He wonders if receiving massage therapy might strengthen his immune system enough that he can have better resistance. What is your best option?",
+      "choices": [
+        "Give him a challenging, rigorous massage session, and recommend that he take a sauna or soak in a hot tub later because these have been seen to detoxify the body",
+        "Inform him that massage therapy might help with immune system function for some people, but that you can’t promise it will help him be sick less often—however, he might feel better in general if he got massage on a regular basis",
+        "Work with him within his capacity for adaptation, and add immune-strengthening essential oils to your lotion",
+        "Assure him that regular massage therapy will help him with this goal, and make a list of supplements he should use to maximize that effect"
+      ],
+      "correctAnswer": "Inform him that massage therapy might help with immune system function for some people, but that you can’t promise it will help him be sick less often—however, he might feel better in general if he got massage on a regular basis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following conditions is the result of an autoimmune attack on blood vessel linings, which leads to the deposition of abnormal amounts of collagen?",
+      "choices": [
+        "Scleroderma",
+        "Lupus",
+        "Myasthenia gravis",
+        "Ecchymosis"
+      ],
+      "correctAnswer": "Scleroderma",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Jose Campos has come to his massage therapist complaining of a shoulder issue.  When working under his car, he cannot raise his right arm above his head without great pain in his shoulder.\n\nUpon assessment, Jose could not lift his right arm to the side away from his body without pain and his movement was very choppy with limited ROM compared to the left.  In addition, he held his right arm very close to his body, as if protecting his arm.\n\nDescribe the Postural issue:",
+      "choices": [
+        "Lateral Rotation of the right glenohumeral joint",
+        "Flexion of the right scapulothoracic joint",
+        "Abduction of the right glenohumeral joint",
+        "Adduction of the right glenohumeral joint"
+      ],
+      "correctAnswer": "Adduction of the right glenohumeral joint",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Irritable bowel syndrome symptoms can resemble those of …",
+      "choices": [
+        "Gastroesophageal reflux disorder, Barrett’s esophagus",
+        "Gastroenteritis, stomach flu, peptic ulcers",
+        "Fibromyalgia syndrome, chronic fatigue syndrome",
+        "Crohn’s disease, diverticular disease, colorectal cancer"
+      ],
+      "correctAnswer": "Crohn’s disease, diverticular disease, colorectal cancer",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your 24-year-old client is not having cramps today, but she tells you that her menstrual cycle is extremely painful and debilitating. She wonders if massage therapy might be helpful. What can you tell her?",
+      "choices": [
+        "Massage therapy has been demonstrated to have a positive impact on menstrual cramps, if sessions occur at least once a week",
+        "Massage therapy can be helpful for people with menstrual cramps, and might even improve the situation so that she has less pain during her period, but extreme pain during menstruation is a good reason to visit her doctor",
+        "Massage therapy can definitely help with this situation, and you look forward to seeing her have a vast improvement in her symptoms",
+        "Massage therapy has no impact on menstrual cramps, but it does affect them by changing the internal chemical environment and helping to regulate the hormonal cycle"
+      ],
+      "correctAnswer": "Massage therapy can be helpful for people with menstrual cramps, and might even improve the situation so that she has less pain during her period, but extreme pain during menstruation is a good reason to visit her doctor",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Why do untreated abdominal hernias contraindicate local massage therapy?",
+      "choices": [
+        "The fascial wall is already weak; extra stress is not called for",
+        "This situation does not contraindicate massage therapy; massage can help reduce the hernia and restore pain-free movement",
+        "Massage therapy may spread infection deeper throughout the body",
+        "Massage therapy is likely to cause further expression of the abdominal contents into the abdominal opening"
+      ],
+      "correctAnswer": "The fascial wall is already weak; extra stress is not called for",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A person with scleroderma has a significantly increased risk for …",
+      "choices": [
+        "Skin cancer, esophageal cancer, lung cancer",
+        "Osteoporosis, rheumatoid arthritis",
+        "Embolism, heart failure, renal failure",
+        "Complex regional pain syndrome"
+      ],
+      "correctAnswer": "Embolism, heart failure, renal failure",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Choose the meridians with energy that flows from Earth to Heaven:",
+      "choices": [
+        "Stomach, Spleen, Small intestine",
+        "Kidney, Lungs, Stomach",
+        "Spleen, Kidney, Liver",
+        "Liver, Gall Bladder, Large Intestine"
+      ],
+      "correctAnswer": "Spleen, Kidney, Liver",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client is training for a road race. He finds that his left leg begins to ache around mile 6, and by mile 7 he can no longer run. He has tried resting, but that doesn’t seem to impact his stamina. What condition is probably present?",
+      "choices": [
+        "Shin splints",
+        "Chronic compartment syndrome",
+        "Periostitis",
+        "Acute compartment syndrome"
+      ],
+      "correctAnswer": "Chronic compartment syndrome",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What reaction to injury in the body reduces leakage of vessels and capillaries?",
+      "choices": [
+        "Macrophages",
+        "Clotting",
+        "Hemophobia",
+        "Hemorrhaging"
+      ],
+      "correctAnswer": "Clotting",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the major signs and symptoms of a severe case of encephalitis?",
+      "choices": [
+        "Headache with fever, drowsiness, irritability",
+        "Asymmetrical dilation of pupils, disorientation, confusion",
+        "Double vision, impaired speech, partial or full paralysis",
+        "Loss of consciousness, irregular heartbeat, shallow breathing"
+      ],
+      "correctAnswer": "Double vision, impaired speech, partial or full paralysis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When acne affects adolescents it is usually associated with …",
+      "choices": [
+        "Poor hygiene",
+        "Excessive testosterone production",
+        "Excessive estrogen production",
+        "A high-fat diet"
+      ],
+      "correctAnswer": "Excessive testosterone production",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If an ovum is fertilized, where does this usually happen?",
+      "choices": [
+        "In the ovary",
+        "In the uterine tube",
+        "In the uterus",
+        "In the vagina"
+      ],
+      "correctAnswer": "In the uterine tube",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What color is associated with the Small Intestine Meridian?",
+      "choices": [
+        "White",
+        "Red",
+        "Lavender",
+        "Blue"
+      ],
+      "correctAnswer": "Red",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the typical symptoms of Thoracic Outlet Syndrome (TOS)?",
+      "choices": [
+        "Profuse sweating",
+        "Shooting pain, weakness, numbness, paresthesia, and possible discoloration of the affected arm",
+        "Loss of ROM in the elbow",
+        "Loss of ROM in the shoulder"
+      ],
+      "correctAnswer": "Shooting pain, weakness, numbness, paresthesia, and possible discoloration of the affected arm",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are some conditions that are often comorbid with CPPS in women?",
+      "choices": [
+        "Fibromyalgia, irritable bowel syndrome, painful bladder syndrome",
+        "Endometriosis, dysmenorrhea, ovarian cysts",
+        "Chlamydia, syphilis, gonorrhea",
+        "Myofascial pain syndrome, fibroid tumors, keloid scarring"
+      ],
+      "correctAnswer": "Fibromyalgia, irritable bowel syndrome, painful bladder syndrome",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following types of prostatitis is frequently long-term and recurrent, and usually not associated with severe symptoms?",
+      "choices": [
+        "Type 4, asymptomatic inflammatory prostatitis",
+        "Type 2, chronic bacterial prostatitis",
+        "Type 3, chronic pelvic pain syndrome",
+        "Type 1, acute bacterial prostatitis"
+      ],
+      "correctAnswer": "Type 2, chronic bacterial prostatitis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the signs and symptoms of common warts?",
+      "choices": [
+        "Painful blisters on a red base",
+        "Hard, flaky, painless nodules",
+        "Itchy circular lesions that are paler in the middle",
+        "Hot, seeping vesicles"
+      ],
+      "correctAnswer": "Hard, flaky, painless nodules",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "By far the biggest risk factor for lung cancer is …",
+      "choices": [
+        "Living with a smoker",
+        "Exposure to asbestos",
+        "Tobacco use",
+        "Genetic predisposition"
+      ],
+      "correctAnswer": "Tobacco use",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of cervical cancer?",
+      "choices": [
+        "The growth of malignant cells that prevent a successful pregnancy",
+        "The growth of malignant cells that travel to the uterus",
+        "The growth of malignant cells in the vagina or uterus",
+        "The growth of malignant cells in the neck of the uterus"
+      ],
+      "correctAnswer": "The growth of malignant cells in the neck of the uterus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your 70-year-old client complains of digestive discomfort. You notice that she has become increasingly weak and easily fatigued over the last several months. What is your best course of action?",
+      "choices": [
+        "Give her a gentle massage as usual, but counsel her to consult her doctor about her GI pain",
+        "Suggest that she try a gluten-free diet to see if that improves her symptoms",
+        "Refuse to work with her until she has seen her doctor and gotten permission to receive massage",
+        "Suggest that she see you more frequently to help manage her abdominal pain"
+      ],
+      "correctAnswer": "Give her a gentle massage as usual, but counsel her to consult her doctor about her GI pain",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the cause of most spinal cord injuries in the United States?",
+      "choices": [
+        "A crushing blow",
+        "A gunshot wound",
+        "A herniated disc",
+        "A tumor"
+      ],
+      "correctAnswer": "A crushing blow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Local pain, shooting electrical pain along the leg, specific muscle weakness of hip, thigh and pelvis, reduced sensation and numbness of hip and leg are all potential signs and symptoms of:",
+      "choices": [
+        "Complete rupture of spinal cord",
+        "Herniated disc",
+        "Hamstring strain",
+        "Sacrotuberous ligament sprain"
+      ],
+      "correctAnswer": "Herniated disc",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client has hypertension that he is trying to manage without medication. He is now exercising and eating better, and he wants to see if massage therapy will help too. What can he expect?",
+      "choices": [
+        "Massage therapy is more likely to support him in his exercise goals than in his hypertension goals, but it is still an excellent idea",
+        "Results of massage therapy research on lowering blood pressure have been of mixed quality, but most experts agree that it is a safe choice that often has good results for this goal",
+        "Because he is at risk for kidney disease and heart attack, massage therapy is not a good option for this client",
+        "Swedish massage has been proven to lower both systolic and diastolic blood pressure, and results last for up to two weeks after a treatment"
+      ],
+      "correctAnswer": "Results of massage therapy research on lowering blood pressure have been of mixed quality, but most experts agree that it is a safe choice that often has good results for this goal",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is chronic venous insufficiency?",
+      "choices": [
+        "A condition in which superficial veins connect to deep ones via perforator veins in order to make up for lost function",
+        "A condition in which the veins grow new valves to support improved blood flow back to the heart",
+        "A condition in which weak valves in major veins leads to edema and other symptoms because blood return to the heart is inefficient",
+        "A condition in which veins develop strictures of scar tissue, which interferes with venous return"
+      ],
+      "correctAnswer": "A condition in which weak valves in major veins leads to edema and other symptoms because blood return to the heart is inefficient",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is optimal blood pressure for most people?",
+      "choices": [
+        "120 systolic; 80 diastolic",
+        "Under 140 systolic; under 90 diastolic",
+        "160 systolic; 100 diastolic",
+        "Under 120 systolic; under 80 diastolic"
+      ],
+      "correctAnswer": "Under 120 systolic; under 80 diastolic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Based on Greek and Latin word roots, what is the meaning of myeloma?",
+      "choices": [
+        "Tumor of connective tissue",
+        "Tumor of marrow",
+        "Tumor of epithelial tissue",
+        "Tumor of a muscle"
+      ],
+      "correctAnswer": "Tumor of marrow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of chronic pelvic pain syndrome in women?",
+      "choices": [
+        "Pelvic and groin pain that is exacerbated by inactivity",
+        "Pelvic pain that arises and subsides in alignment with the menstrual cycle",
+        "Pain in the lower abdomen that is elicited by hypersensitivity in the vaginal canal and cervix",
+        "Throbbing, stabbing pelvic pain not due to other causes"
+      ],
+      "correctAnswer": "Throbbing, stabbing pelvic pain not due to other causes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_answer",
+      "question": "How might imbalance manifest in our clients?",
+      "choices": [
+        "Decreased ROM and Postural Misalignment",
+        "Pain and Tension",
+        "Tissue out of Place and Fibrotic Tissue"
+      ],
+      "correctAnswers": [
+        "Decreased ROM and Postural Misalignment",
+        "Pain and Tension"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A person with type 2 diabetes has an increased risk of what complications?",
+      "choices": [
+        "Colorectal cancer, ulcerative colitis, Crohn’s disease",
+        "Acromegaly, Cushing’s syndrome, thyroid nodules",
+        "Hashimoto’s thyroiditis, thyroid cancer, thymus cancer",
+        "Atherosclerosis, hypertension, stroke"
+      ],
+      "correctAnswer": "Atherosclerosis, hypertension, stroke",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is the definition of scar tissue?",
+      "choices": [
+        "The development of mounded connective tissue around the borders of an injury",
+        "The replacement of healthy epithelial cells with collagen and elastin",
+        "The development of extracellular matrix and new cells where damage has occurred",
+        "The replacement of healthy cells with extracellular matrix"
+      ],
+      "correctAnswer": "The development of extracellular matrix and new cells where damage has occurred",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of thrombophlebitis?",
+      "choices": [
+        "Blood clots have formed on the venous side of the systemic circuit",
+        "Veins closest to the bone are obstructed and possibly inflamed because of blood clots",
+        "Blood clots have formed on the arterial side of the systemic circuit",
+        "Veins closest to the skin are obstructed and possibly inflamed because of blood clots"
+      ],
+      "correctAnswer": "Veins closest to the skin are obstructed and possibly inflamed because of blood clots",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following strategies have NOT been shown to be protective against cancer?",
+      "choices": [
+        "Stop tobacco use and limit alcohol use; use sunscreen; practice safe sex",
+        "Be physically active, with a healthy weight and a healthy diet; screen for cancer regularly",
+        "Vaccinate against carcinogenic pathogens; avoid known carcinogens",
+        "Get adequate high-quality sleep, seek out healthy relationships, invest in daily quiet time"
+      ],
+      "correctAnswer": "Get adequate high-quality sleep, seek out healthy relationships, invest in daily quiet time",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following are the subtypes of squamous cell carcinoma?",
+      "choices": [
+        "Superficial spreading SCC, acral lentiginous SCC, uveal SCC",
+        "Morpheaform SCC, nodular SCC, pigmented SCC",
+        "Genital carcinoma, myelodysplasia, Heck’s disease",
+        "Actinic keratosis, actinic cheilitis, leukoplakia, Bowen disease"
+      ],
+      "correctAnswer": "Morpheaform SCC, nodular SCC, pigmented SCC",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client has a stiff neck that is a residual consequence of a car accident from several months ago. What is your best strategy?",
+      "choices": [
+        "Refuse to work until you have a doctor’s clearance",
+        "Work deeply and specifically to release all unnecessary tension",
+        "Refuse to work until you have seen the client’s X-rays",
+        "Work slowly and incrementally to improve range of motion"
+      ],
+      "correctAnswer": "Work slowly and incrementally to improve range of motion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Select the motion that occurs at the ankle with the shortening of the Gastrocnemius, soleus and tibialis posterior muscles.",
+      "choices": [
+        "Inversion",
+        "Plantar flexion",
+        "Conversion",
+        "Eversion",
+        "Dorsiflexion"
+      ],
+      "correctAnswer": "Plantar flexion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A client reports unrelenting itching on the front of her arm. She has reddish lines in the crease of her elbow. What may be present?",
+      "choices": [
+        "Body lice",
+        "Infestation with mites",
+        "Seborrheic keratosis",
+        "Ringworm"
+      ],
+      "correctAnswer": "Infestation with mites",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following are classified as the most potentially infectious body fluids?",
+      "choices": [
+        "Semen, vaginal secretions, breast milk, blood",
+        "Blood-tinged saliva, sweat, tears",
+        "Breast milk, blood, semen, clear saliva",
+        "Saliva, blood, tears, semen"
+      ],
+      "correctAnswer": "Semen, vaginal secretions, breast milk, blood",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Match the location with the structure found there: Upper Arm",
+      "choices": [
+        "Spinous Process",
+        "Deltoid",
+        "Hamstrings",
+        "Suboccipitals"
+      ],
+      "correctAnswer": "Deltoid",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Define Pes Anserinus:",
+      "choices": [
+        "\"Duck Foot\"",
+        "\"Chicken Foot\"",
+        "\"Turtle Foot\"",
+        "\"Goose Foot\""
+      ],
+      "correctAnswer": "\"Goose Foot\"",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How does the use of anti-inflammatory medication contribute to peptic ulcers?",
+      "choices": [
+        "These medications suppress a normal immune system response to H. pylori",
+        "These medications suppress the production of protective mucus",
+        "These medications promote the production of excess hydrochloric acid",
+        "These medications promote a parasympathetic response, which slows digestive activity"
+      ],
+      "correctAnswer": "These medications suppress the production of protective mucus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When a person treats her cancer with chemotherapy, what are some treatment-related cautions for massage therapy?",
+      "choices": [
+        "Burned or irritated skin; implanted radioactive pellets; bone marrow suppression",
+        "Extreme fatigue and flulike symptoms",
+        "Bone marrow suppression; hand-foot syndrome, neuropathy, toxic expression through the skin",
+        "Drains, catheters, or ostomies may interfere with massage therapy"
+      ],
+      "correctAnswer": "Bone marrow suppression; hand-foot syndrome, neuropathy, toxic expression through the skin",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which Swedish Physiologist is credited for developing the basis of Swedish massage?",
+      "choices": [
+        "Charles Taylor",
+        "Johann Mezger",
+        "Per Henrik Ling",
+        "Dr. Kellogg"
+      ],
+      "correctAnswer": "Per Henrik Ling",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of small intestinal bacterial overgrowth?",
+      "choices": [
+        "A precancerous condition that predicts the development of stomach cancer",
+        "The development of bacteria-filled ulcers in the stomach and small intestine",
+        "An imbalance in the intestinal microbiome with overabundance of bacteria in the jejunum and ileum",
+        "An imbalance in the intestinal microbiome with overabundance of bacteria in the stomach and duodenum"
+      ],
+      "correctAnswer": "The development of bacteria-filled ulcers in the stomach and small intestine",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are major signs and symptoms of someone in drug withdrawal?",
+      "choices": [
+        "Pain, vomiting, seizures",
+        "Fever, confusion, aphasia",
+        "Headache, irritability, drowsiness",
+        "Stroke, weakness, hemiparesis"
+      ],
+      "correctAnswer": "Pain, vomiting, seizures",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your adult client has myotonic MD. What will she probably ask you to help with?",
+      "choices": [
+        "Spasmodic torticollis",
+        "Spasms that follow muscle contractions",
+        "Neurogenic pain and decubitus ulcers",
+        "Crippling atrophy of the leg muscles"
+      ],
+      "correctAnswer": "Spasms that follow muscle contractions",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your 32-year-old client tells you she had chickenpox four weeks ago. She has a few small red bumps, but all her scabs have fully healed. She reports no lingering itching or pain. She would like to keep her regular massage appointment. What is your best strategy?",
+      "choices": [
+        "Work with her, but wear gloves because this virus remains active on the skin after the infection has subsided",
+        "Work with her through the sheet in order to reduce the risk of spreading infection",
+        "Work with her normally: this client requires no special accommodations",
+        "Work with her normally, but add some antiviral essential oil to your lotion"
+      ],
+      "correctAnswer": "Work with her normally: this client requires no special accommodations",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Long-term degeneration of a structure, along with a lot of type III collagen fibers are markers of what condition?",
+      "choices": [
+        "Tenosynovitis",
+        "Tendinosis",
+        "Tendinitis",
+        "Tendon torsion"
+      ],
+      "correctAnswer": "Tendinosis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following situations involves multiple small ovarian cysts and is associated with several systemic disorders?",
+      "choices": [
+        "Corpus luteum cyst",
+        "Teratomas",
+        "Follicular cyst",
+        "Polycystic ovarian syndrome"
+      ],
+      "correctAnswer": "Polycystic ovarian syndrome",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How does lymph move through the body?",
+      "choices": [
+        "Force provided by smooth muscle contractions of the lymph nodes, along with valves inside lymphatic vessels that promote one-way movement of fluid",
+        "Hydrostatic pressure from the heart, circulatory system, and back-pressure of constant lymph formation",
+        "Skeletal muscle contraction, vasodilation and contraction, gravity, massage",
+        "As an extension of the cerebrospinal rhythm, it is pushed in subtle waves by the dura mater"
+      ],
+      "correctAnswer": "Skeletal muscle contraction, vasodilation and contraction, gravity, massage",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the most distal structure in the respiratory system?",
+      "choices": [
+        "Uvula",
+        "Tongue",
+        "Bronchioles",
+        "Alveoli"
+      ],
+      "correctAnswer": "Alveoli",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A client's assessment indicates their torso is slightly leaning towards the left, noticeable choppiness with limited movement during right lateral flexion, and a feeling of pulling on the left side of their trunk while leaning their body to the right. How would the range of motion issue be documented on an assessment chart?",
+      "choices": [
+        "Decreased rotation of the vertebral column to the left",
+        "Decreased lateral flexion of the vertebral column to the right",
+        "Decreased flexion of the vertebral column",
+        "Decreased lateral flexion of the vertebral column to the left"
+      ],
+      "correctAnswer": "Decreased lateral flexion of the vertebral column to the right",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Untreated or inadequately treated diabetes is a leading contributor to …",
+      "choices": [
+        "Gastroenteritis, gastroesophageal reflux disorder, Barrett’s esophagus",
+        "Kidney stones, bladder stones, enlarged prostate",
+        "Blindness, renal failure, amputation",
+        "Deep vein thrombosis, pulmonary embolism, emphysema"
+      ],
+      "correctAnswer": "Blindness, renal failure, amputation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is the most effective strategy for handwashing?",
+      "choices": [
+        "Alcohol-soaked towelettes",
+        "Bleach-soaked wiping pads",
+        "Warm water, plain soap for 30 seconds",
+        "Hot water, antibacterial soap for 30 seconds"
+      ],
+      "correctAnswer": "Warm water, plain soap for 30 seconds",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Major signs and symptoms of acute pyelonephritis include …",
+      "choices": [
+        "Fever, burning and frequency of urination, back pain, nausea",
+        "Subtle abdominal pain, mild back pain, fatigue",
+        "Cloudy urine, bloody stools",
+        "Yellowing of the skin and mucous membranes"
+      ],
+      "correctAnswer": "Fever, burning and frequency of urination, back pain, nausea",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your 40-year-old client has type 1 diabetes, which he manages successfully with an insulin pump and careful dietary choices. He is now training to run a marathon, and wonders if massage therapy can be incorporated into his regimen. What accommodations might he need?",
+      "choices": [
+        "Ask this client how he can be most comfortable on the massage table; avoid the area near the pump",
+        "Ask this client to remove his pump for at least an hour before he receives massage therapy, and for three hours afterward; then no accommodations will be necessary",
+        "This client can only receive gentle massage therapy because his peripheral tissues do not get adequate circulation",
+        "This client is not a good candidate for massage therapy until he has been cleared by his doctor; ask him to bring a note of permission to receive massage"
+      ],
+      "correctAnswer": "Ask this client how he can be most comfortable on the massage table; avoid the area near the pump",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are typical treatments for adhesive capsulitis or \"Frozen Shoulder\"?",
+      "choices": [
+        "There are no treatment options - you can only wait and see if movement increases",
+        "Analgesics, including stronger pain medications only",
+        "Physical Therapy only",
+        "Corticosteroid injections, pain medications, self-care, massage and physical therapy"
+      ],
+      "correctAnswer": "Corticosteroid injections, pain medications, self-care, massage and physical therapy",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The herpes simplex virus is an issue in massage therapy professional hygiene practices because it is …",
+      "choices": [
+        "Only transmissible as an airborne pathogen",
+        "Only transmissible through blood, semen, or vaginal secretions",
+        "Stable outside a host",
+        "Fragile outside a host"
+      ],
+      "correctAnswer": "Stable outside a host",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Identify the bone or bony landmark that is not uncovered when draping the prone leg during the NHI Swedish sequence:",
+      "choices": [
+        "Olecranon process",
+        "Greater trochanter",
+        "Ischial tuberosity",
+        "Femur"
+      ],
+      "correctAnswer": "Olecranon process",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "De Quervain’s tenosynovitis specifically affects tendons of the …",
+      "choices": [
+        "Foot",
+        "Thumb",
+        "Great toe",
+        "Wrist"
+      ],
+      "correctAnswer": "Thumb",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the most dangerous complication of a pressure injury?",
+      "choices": [
+        "Secondary infection and blood poisoning",
+        "Having lesions spread to other areas of the body",
+        "Fluid loss and circulatory collapse",
+        "A high risk of melanoma"
+      ],
+      "correctAnswer": "Secondary infection and blood poisoning",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the components of a \"Praise Sandwich\":",
+      "choices": [
+        "Critique, Compliment, Critique",
+        "Lettuce, Tomato, Your favorite sandwich filling",
+        "Compliment, Compliment, Critique",
+        "Compliment, Critique, Compliment",
+        "Critique, Compliment, Compliment"
+      ],
+      "correctAnswer": "Compliment, Critique, Compliment",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "All the filtered lymph from the lower extremities joins together at the base of the …",
+      "choices": [
+        "Thoracic duct",
+        "Vena cava",
+        "Abdominal aorta",
+        "Large intestine"
+      ],
+      "correctAnswer": "Thoracic duct",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following leukocytes are most common in the early stage of inflammation?",
+      "choices": [
+        "Monocytes",
+        "Killer T-cells",
+        "Neutrophils",
+        "Macrophages"
+      ],
+      "correctAnswer": "Neutrophils",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following types of diabetes is the most common form of diabetes, involving high blood glucose and the possibility of insulin resistance?",
+      "choices": [
+        "Juvenile onset diabetes",
+        "Double diabetes",
+        "Pre-diabetes",
+        "Type 2 diabetes"
+      ],
+      "correctAnswer": "Type 2 diabetes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What does the body mechanics principle \"Hands are Last\" mean?",
+      "choices": [
+        "All choice are correct",
+        "Settle into yourself before touching the client",
+        "Don't touch the client until you know where your hands are going",
+        "First, connect to the client with your heart and intention"
+      ],
+      "correctAnswer": "All choice are correct",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Where does herpes whitlow appear?",
+      "choices": [
+        "On the feet",
+        "On the hand",
+        "On the cornea",
+        "On the ear"
+      ],
+      "correctAnswer": "On the hand",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What does the French term \"effleurer\" mean?",
+      "choices": [
+        "To attract",
+        "To stretch",
+        "To bring",
+        "To skim over"
+      ],
+      "correctAnswer": "To skim over",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following muscles are most likely to require attention in a person who wants to treat thoracic outlet syndrome?",
+      "choices": [
+        "Scalenes",
+        "Pectoralis major",
+        "Trapezius",
+        "Internal intercostals"
+      ],
+      "correctAnswer": "Scalenes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Words that end with \"itis\" refer an area that is:",
+      "choices": [
+        "Marked by scar tissue",
+        "Identified by reduced muscle tone",
+        "Swollen due to water retention",
+        "Inflamed/inflammation"
+      ],
+      "correctAnswer": "Inflamed/inflammation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Dorie is a middle-aged female client with history of chronic neck problems. She habitually sleeps on her left side attempting to get some relief from the tension and stiffness in her neck.\n\nDuring the range of motion assessment, the therapist noticed an obvious decreased movement in rotation of the head to the right. Dorie also reported pulling and tension on the right side of her neck while performing the movement to the right.\n\nWhat range of motion issue is observed?",
+      "choices": [
+        "Decrease ROM in Lateral Flexion of the neck to the right",
+        "Decrease ROM in flexion of the neck",
+        "Decrease ROM in Rotation of the neck to the right",
+        "Decrease ROM in Rotation of the neck to the left"
+      ],
+      "correctAnswer": "Decrease ROM in Rotation of the neck to the right",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client had a pulmonary embolism eight weeks ago. She supplements oxygen, and informs you that she has a filter in her vena cava. What kinds of accommodations might this client require?",
+      "choices": [
+        "This client needs to delay massage for at least four more weeks; at that time it will be safe for her to receive standard circulatory massage",
+        "This client will be safest with gentle touch that does not impact fluid flow",
+        "This client needs firm and confident petrissage in her legs to boost circulation and reduce the risk of future clots",
+        "This client cannot receive massage until she has obtained permission from her primary care provider"
+      ],
+      "correctAnswer": "This client will be safest with gentle touch that does not impact fluid flow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Jessica loves to workout at her gym. Lately she has noticed that she cannot relax her shoulders. She has decided to see if massage therapy can do something to help with her shoulders relaxing. Upon assessment her shoulders are very hypertonic and elevated.\n\nJessica also has trouble relaxing and depressing her shoulders.\n\nMuscles to target for this session:",
+      "choices": [
+        "None of the choices provided",
+        "Infraspinatus and teres minor",
+        "Upper trapezius, levator scapula and rhomboids",
+        "Pectoralis major, deltoid and biceps brachii"
+      ],
+      "correctAnswer": "Upper trapezius, levator scapula and rhomboids",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the hallmark symptom of uterine cancer?",
+      "choices": [
+        "Painful sexual activity",
+        "Pelvic pain with an abdominal mass",
+        "Heavy periods with bleeding midcycle",
+        "Vaginal bleeding or spotting in postmenopausal women"
+      ],
+      "correctAnswer": "Vaginal bleeding or spotting in postmenopausal women",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the insertion of the trapezius?",
+      "choices": [
+        "medial one-third of clavicle, lateral border of scapula",
+        "medial two-thirds of clavicle, angle of acromion and spine of scapula",
+        "lateral one-third of clavicle, acromion and spine of scapula",
+        "shaft of clavicle, acromion and superior angle of scapula"
+      ],
+      "correctAnswer": "lateral one-third of clavicle, acromion and spine of scapula",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes what a practitioner should do to make sure clients are well-informed:",
+      "choices": [
+        "Explain in detail everything about the sessions",
+        "Remember to ask clients for permission to treat",
+        "Never assume they are familiar with the practitioner’s services",
+        "Take time to talk through the session as it occurs"
+      ],
+      "correctAnswer": "Never assume they are familiar with the practitioner’s services",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "According to the International Association for the Study of Pain, pain is …",
+      "choices": [
+        "“An unpleasant sensation that can range from mild, localized discomfort to agony, with both physical and emotional components”",
+        "“An unpleasant sensory or emotional experience associated with actual or potential tissue damage, or described in terms of such damage”",
+        "“A signal that tissue may be damaged if a behavior is not immediately interrupted”",
+        "“Physical suffering or discomfort caused by illness or injury”"
+      ],
+      "correctAnswer": "“An unpleasant sensory or emotional experience associated with actual or potential tissue damage, or described in terms of such damage”",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the most predictable signs of emphysema?",
+      "choices": [
+        "Pain with breathing, rales, labored exhalation",
+        "Frequent colds and flu, respiratory allergies",
+        "Fatigue, poor sleep, widespread pain",
+        "Chronic cough, excess sputum, asthma"
+      ],
+      "correctAnswer": "Pain with breathing, rales, labored exhalation",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "A practitioner must refrain from dual relationships to maintain an ethical practice",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "One of the primary reasons for incorporating is to limit liability",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following hormones help us convert incoming fuel into muscular work?",
+      "choices": [
+        "Triiodothyronine and thyroxine",
+        "Insulin and glucagon",
+        "Calcitonin and parathyroid hormone",
+        "Thyroid stimulating hormone and thyroxine"
+      ],
+      "correctAnswer": "Triiodothyronine and thyroxine",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A practitioner, who specializes in pain management, has decided to add retail products to their office. Which of the following products would be best suited for their practice?",
+      "choices": [
+        "Self-care books",
+        "Candles",
+        "Music",
+        "Topical analgesics"
+      ],
+      "correctAnswer": "Topical analgesics",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How many tendons pass through the carpal tunnel?",
+      "choices": [
+        "3",
+        "7",
+        "5",
+        "9"
+      ],
+      "correctAnswer": "9",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle does NOT comprise one of the walls of tissue forming the axilla?",
+      "choices": [
+        "triceps brachii",
+        "latissimus dorsi",
+        "serratus anterior",
+        "coracobrachialis"
+      ],
+      "correctAnswer": "triceps brachii",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following sexually transmitted infections involves a bacterium that is often comorbid with gonorrhea? It is usually a silent infection, but can lead to pelvic inflammatory and infertility in women, and to epididymitis in men.",
+      "choices": [
+        "Chlamydia",
+        "Syphilis",
+        "Herpes simplex",
+        "Trichomoniasis"
+      ],
+      "correctAnswer": "Chlamydia",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When a client with an active herpes lesion transfers virus from her face to the credit card she uses to pay you, the credit card is now a …",
+      "choices": [
+        "Reservoir",
+        "Host",
+        "Fomite",
+        "Vector"
+      ],
+      "correctAnswer": "Fomite",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client is a hale and hearty 84-year-old who was recently diagnosed with a slow-growing form of prostate cancer. On his doctor's advice he has decided not to treat it. He would like to continue receiving massage, as he has done for the past several years. What is your best option?",
+      "choices": [
+        "Offer to continue doing the kind of massage therapy that he enjoys, but first he needs to obtain clearance from his primary care physician",
+        "Continue to offer him the same types of massage therapy he has always received; it is unlikely to influence the process of his disease",
+        "Offer him gentle massage and recommend that he consult another doctor, since his current one is clearly not serving him well",
+        "Switch to techniques that do not impact the circulatory system, so you can reduce the risk of disrupting cancer cells"
+      ],
+      "correctAnswer": "Continue to offer him the same types of massage therapy he has always received; it is unlikely to influence the process of his disease",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which part of the scapula serves as an attachment site for the long head of triceps brachii?",
+      "choices": [
+        "spine of the scapula",
+        "superior angle",
+        "lateral border",
+        "infraglenoid tubercle"
+      ],
+      "correctAnswer": "infraglenoid tubercle",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "As you palpate medially toward the vertebral column, you may lose contact with the twelfth rib because it is deep to which muscles?",
+      "choices": [
+        "trapezius",
+        "erector spinae",
+        "multifidi",
+        "rotatores"
+      ],
+      "correctAnswer": "erector spinae",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following single-celled microorganisms tend to appear in clusters?",
+      "choices": [
+        "Diplococcus",
+        "Bacilli",
+        "Streptococcus",
+        "Staphylococcus"
+      ],
+      "correctAnswer": "Staphylococcus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In which of the following types of pneumonia, does the infection begin with the accidental inhalation of some foreign material?",
+      "choices": [
+        "Discharge pneumonia",
+        "Nosocomial pneumonia",
+        "Community-acquired pneumonia",
+        "Aspiration pneumonia"
+      ],
+      "correctAnswer": "Aspiration pneumonia",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle can be located just anterior to the prominent adductor tendon?",
+      "choices": [
+        "adductor brevis",
+        "adductor magnus",
+        "pectineus",
+        "vastus medialis"
+      ],
+      "correctAnswer": "pectineus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Palpation of which structure can stimulate the production of saliva?",
+      "choices": [
+        "thyroid gland",
+        "cervical lymph nodes",
+        "parotid gland",
+        "facial nerve"
+      ],
+      "correctAnswer": "parotid gland",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The first rib is deep to which structure along the anterior thorax?",
+      "choices": [
+        "coracoid process",
+        "sternum",
+        "clavicle",
+        "acromion"
+      ],
+      "correctAnswer": "clavicle",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Integumentary muscles and mimetic muscles are what, respectively?",
+      "choices": [
+        "muscles embedded in the superficial fascia; muscles that express emotion",
+        "muscles of the eyes; muscles of the mouth",
+        "muscles that express distressful emotions; muscles that express joyful emotions",
+        "muscles of the face; muscles of the neck"
+      ],
+      "correctAnswer": "muscles embedded in the superficial fascia; muscles that express emotion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Please identify the movement.",
+      "choices": [
+        "Retraction of mandible",
+        "Lateral deviation of mandible",
+        "Protraction of mandible",
+        "Depression of mandible",
+        "Elevation of mandible"
+      ],
+      "image": "images/exam2/q22.png",
+      "correctAnswer": "Depression of mandible",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of fibroid tumors?",
+      "choices": [
+        "Benign tumors that grow in and around the uterus",
+        "Deposits of dense scar tissue related to previous pregnancies",
+        "Tumors that indicate a history of chronic infection",
+        "Potentially malignant tumors that grow in the uterine wall"
+      ],
+      "correctAnswer": "Benign tumors that grow in and around the uterus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The carpals are located just distal to what topographical feature of the palmar side?",
+      "choices": [
+        "flexor crease",
+        "thenar eminence",
+        "hypothenar eminence",
+        "styloid process of the humerus"
+      ],
+      "correctAnswer": "flexor crease",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Identify the nerve bundle posterior to the anterior and middle scalenes and the clavicle. Compression of this area can cause pain, numbness, and tingling down the arm.",
+      "choices": [
+        "Axillary plexus",
+        "Brachial plexus",
+        "Cervical lymph nodes",
+        "Axillary vein and artery"
+      ],
+      "correctAnswer": "Brachial plexus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "With what season are the Pericardium and Triple Heater Meridians associated?",
+      "choices": [
+        "Winter",
+        "Fall",
+        "Late Summer",
+        "Summer"
+      ],
+      "correctAnswer": "Summer",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the function of the ependymal cells in the nervous system?",
+      "choices": [
+        "Produce cerebrospinal fluid",
+        "Transmit impulses between sensory and motor neurons",
+        "Carry out phagocytosis in the brain",
+        "Produce myelin in PNS"
+      ],
+      "correctAnswer": "Produce cerebrospinal fluid",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle is just anterior to the hamstrings and the most posterior of the adductor muscles?",
+      "choices": [
+        "gracilis",
+        "adductor longus",
+        "adductor brevis",
+        "adductor magnus"
+      ],
+      "correctAnswer": "adductor magnus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is a physiological effect of the Swedish effleurage technique?",
+      "choices": [
+        "Breaks up adhesion's",
+        "Warms tissue for deeper work",
+        "Stimulates nerve activity",
+        "May tone muscle tissue",
+        "Returns blood flow to the heart"
+      ],
+      "correctAnswer": "Returns blood flow to the heart",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Between which two bony landmarks can the coracoclavicular ligament be located?",
+      "choices": [
+        "clavicle and coracoid process",
+        "coracoid process and acromion",
+        "coracoid and humerus",
+        "clavicle and acromion"
+      ],
+      "correctAnswer": "clavicle and coracoid process",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the insertion of the oblique capitis inferior?",
+      "choices": [
+        "spinous process of the axis (C-2)",
+        "superior nuchal line of the occiput",
+        "transverse process of the atlas (C-1)",
+        "transverse process of the axis (C-2)"
+      ],
+      "correctAnswer": "transverse process of the atlas (C-1)",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Sometimes sexual excitement is triggered even though the client and practitioner had not intended this reaction to occur",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Pubic lice may infest …",
+      "choices": [
+        "Pubic hair of women only",
+        "Any body hair but only the margins of the scalp of either gender",
+        "Pubic hair of men only",
+        "Scalp hair and pubic hair of either gender"
+      ],
+      "correctAnswer": "Any body hair but only the margins of the scalp of either gender",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "How does hypertension lead to heart failure?",
+      "choices": [
+        "Hypertension wears out the heart valves; without the valves, the heart cannot beat strongly enough to keep up with our needs",
+        "The heart cannot get enough oxygen to do its work when the coronary arteries are tightened by hypertension",
+        "Chronic hypertension can break down the septum that divides the heart into left and right halves; when the blood mixes, the heart beats less strongly",
+        "Pushing against resistance in the arteries causes the muscle fibers in the heart to lose elasticity and strength"
+      ],
+      "correctAnswer": "Pushing against resistance in the arteries causes the muscle fibers in the heart to lose elasticity and strength",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The process of filtration is driven by differences in pressure.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these muscles are primary muscles for exhaling?",
+      "choices": [
+        "Serratus anterior and diaphragm",
+        "External intercostals and pectoralis minor",
+        "Scalenes and pectoralis major",
+        "Internal intercostals and rectus abdominis"
+      ],
+      "correctAnswer": "Internal intercostals and rectus abdominis",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client is a 76-year-old man in end-stage AIDS. He is frail, he has pneumonia, and he is not expected to live through the week. He and his family would like to see if massage therapy might add to his comfort. What is your best option?",
+      "choices": [
+        "Work with him carefully within his limits for frailty and resilience; offer to teach his friends or family some simple and safe techniques for comfort",
+        "Work with him either wearing gloves or through the sheet, and consider wearing a face mask to reduce the risk of your exposure to his infection",
+        "Provide any type of massage therapy that he asks for; as he approaches the end of life, there are no serious contraindications",
+        "Don’t do any hands-on massage, but offer to do hands-off work while gathered with his family and friends for a guided meditation"
+      ],
+      "correctAnswer": "Work with him carefully within his limits for frailty and resilience; offer to teach his friends or family some simple and safe techniques for comfort",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the tissue that is primarily affected by leukemia?",
+      "choices": [
+        "The liver",
+        "The spleen",
+        "Red blood cells",
+        "Bone marrow"
+      ],
+      "correctAnswer": "Bone marrow",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Zina is a dancer with lateral flexion of the spine to the left.   She finds it difficult to perform all of the dance moves that are necessary in her profession.\n\nChoose the most potentially effective massage plan:",
+      "choices": [
+        "Work the muscles on the left side, as they are contracted",
+        "Work all abdominal muscles completely and on both sides",
+        "No choices are correct",
+        "Work on the muscles on the opposite side, as they are lengthened"
+      ],
+      "correctAnswer": "Work the muscles on the left side, as they are contracted",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Virtually every cell in the body relies on the circulatory system to perform what function(s)?",
+      "choices": [
+        "Leukocytic activity",
+        "Capillary dilation and constriction",
+        "Clotting mechanisms",
+        "Delivery of nutrients; removal of wastes"
+      ],
+      "correctAnswer": "Delivery of nutrients; removal of wastes",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the insertion of the longus capitis?",
+      "choices": [
+        "inferior surface of occiput",
+        "external occipital protuberance",
+        "styloid process of temporal bone",
+        "transverse process of axis (C-2)"
+      ],
+      "correctAnswer": "inferior surface of occiput",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is actually an abdominal muscle located on the posterior side of the thorax?",
+      "choices": [
+        "iliocostalis",
+        "latissimus dorsi",
+        "quadratus lumborum",
+        "transverse abdominis"
+      ],
+      "correctAnswer": "quadratus lumborum",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Petrissage is contraindicated on a client with bacterial skin infection(s):",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "The ability to control urination is a learned behavior because the external sphincter is voluntary muscle.",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of cellular transportation is it when ATP is used to transport particles against a concentration or pressure gradient?",
+      "choices": [
+        "Osmosis",
+        "Diffusion",
+        "Active transport",
+        "Facilitated diffusion"
+      ],
+      "correctAnswer": "Active transport",
+      "explanation": ""
+    },
+    {
+      "type": "matching",
+      "question": "Match Terms:",
+      "prompts": [
+        "Assertion sequence",
+        "Informed consent",
+        "Interactive speaking"
+      ],
+      "choices": [
+        "A series of increasingly forceful conversations that helps a practitioner effectively protect her boundaries",
+        "A conversation between the practitioner and the client clarifying the nature of a procedure, why it is recommended, and what its impact might be",
+        "A three-step method that promotes two-way communication and creates an opening for clients to share concerns"
+      ],
+      "correctAnswers": {
+        "Assertion sequence": "A series of increasingly forceful conversations that helps a practitioner effectively protect her boundaries",
+        "Informed consent": "A conversation between the practitioner and the client clarifying the nature of a procedure, why it is recommended, and what its impact might be",
+        "Interactive speaking": "A three-step method that promotes two-way communication and creates an opening for clients to share concerns"
+      },
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the proper anatomical term for the heel of the foot?",
+      "choices": [
+        "Maximum pedal",
+        "Inferior extremius",
+        "Achilles bone",
+        "Calcaneus"
+      ],
+      "correctAnswer": "Calcaneus",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Confrontation discussions should be short. There is no need to belabor the point by having the client recap the discussion, the practitioner’s decisions are final.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the best description of bladder cancer?",
+      "choices": [
+        "Growth of malignant cells in the urinary bladder",
+        "Cancer that started in the kidneys and migrated to the urinary bladder",
+        "Growth of malignant cells anywhere in the urinary tract",
+        "Cancer that started in the prostate and migrated to the urinary bladder"
+      ],
+      "correctAnswer": "Growth of malignant cells in the urinary bladder",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What determines whether massage therapy is appropriate for a person with a trauma or stressor-related disorder?",
+      "choices": [
+        "Whether he or she feels safe",
+        "Whether he or she has other conditions that influence massage therapy choices",
+        "Whether he or she is under a doctor’s care",
+        "Whether he or she is under the influence of drugs at the time of the appointment"
+      ],
+      "correctAnswer": "Whether he or she feels safe",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the vastus intermedius?",
+      "choices": [
+        "anterior and lateral shaft of the femur",
+        "medial and lateral lips of linea aspera",
+        "anterior inferior iliac spine (AIIS)",
+        "posterior shaft of the femur"
+      ],
+      "correctAnswer": "anterior and lateral shaft of the femur",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The connective tissue links between muscles, bones, and fascial membranes that provide a pathway for the mechanical communication of tension and compression is the definition for __________.",
+      "choices": [
+        "muscle recruitment",
+        "kinetic chain",
+        "neurofascial planes",
+        "myofascial train"
+      ],
+      "correctAnswer": "myofascial train",
+      "explanation": ""
+    },
+    {
+      "type": "matching",
+      "question": "What are purpose, priorities, and goals and how do they relate to one another?",
+      "prompts": [
+        "PRIORITIES",
+        "GOALS",
+        "PURPOSE"
+      ],
+      "choices": [
+        "Statements of intention that are connected with values and are less general than purpose",
+        "Specific events or tasks that have a definite completion",
+        "A general statement of direction"
+      ],
+      "correctAnswers": {
+        "PRIORITIES": "Statements of intention that are connected with values and are less general than purpose",
+        "GOALS": "Specific events or tasks that have a definite completion",
+        "PURPOSE": "A general statement of direction"
+      },
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The organs and tissues of the skin and nervous system develop from which of the organized layers of stem cells in the embryo?",
+      "choices": [
+        "Mesoderm",
+        "Endoderm",
+        "Ectoderm",
+        "Periderm"
+      ],
+      "correctAnswer": "Ectoderm",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Knowing the professional standards of one’s profession is sufficient in avoiding unethical behavior.",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the first step a practitioner should take toward implementing a marketing plan of action?",
+      "choices": [
+        "Buy airtime from local television and radio stations",
+        "Establish a detailed schedule",
+        "Get feedback and helpful criticism from clients",
+        "Get cost estimates from at least three printers"
+      ],
+      "correctAnswer": "Establish a detailed schedule",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What movement takes place when the radius crosses over the ulna, turning the palm down?",
+      "choices": [
+        "supination",
+        "pronation",
+        "dorsiflexion",
+        "rotation"
+      ],
+      "correctAnswer": "pronation",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The long head of the triceps brachii weaves between which two muscles before attaching at the infraglenoid tubercle?",
+      "choices": [
+        "latissimus dorsi and teres major",
+        "subscapularis and infraspinatus",
+        "pectoralis major and coracobrachialis",
+        "teres major and minor"
+      ],
+      "correctAnswer": "teres major and minor",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The exchange of oxygen and carbon dioxide that occurs between air and capillaries inside the lungs is called __________.",
+      "choices": [
+        "ventilation",
+        "internal respiration",
+        "exhalation",
+        "external respiration"
+      ],
+      "correctAnswer": "external respiration",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following best describes what a client has a right to expect from a practitioner? To:",
+      "choices": [
+        "Improve their health",
+        "Resolve their pain",
+        "Act in their best interest",
+        "Know how to treat their problems"
+      ],
+      "correctAnswer": "Act in their best interest",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_answer",
+      "question": "Choose the item(s) that are not included in body mechanic principles (select all that apply):",
+      "choices": [
+        "Hands are first",
+        "Back up to get low",
+        "Weight transfer",
+        "Come from neutral",
+        "Body does not do massage, the mind does",
+        "Line of force"
+      ],
+      "correctAnswers": [
+        "Hands are first",
+        "Body does not do massage, the mind does"
+      ],
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which factor might have an effect on the position of the scapula?",
+      "choices": [
+        "all choices provided",
+        "a contracted pectoralis minor",
+        "an individual’s body type",
+        "a weak serratus anterior"
+      ],
+      "correctAnswer": "all choices provided",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is an anastomosis?",
+      "choices": [
+        "A group of connected collecting capillaries situated along the watershed lines",
+        "The area in the torso where the umbilical watershed line intersects with the sagittal watershed line",
+        "A string of lymph nodes not found in a catchment",
+        "The segment of skin where the initial vessels merge into collecting capillaries"
+      ],
+      "correctAnswer": "A group of connected collecting capillaries situated along the watershed lines",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the portal vein?",
+      "choices": [
+        "The vein that links the spleen to the pancreas",
+        "The vein that carries blood from the abdomen to the thorax",
+        "The vein that carries blood away from all the organs of digestion",
+        "The vein that links the small intestine to the large intestine"
+      ],
+      "correctAnswer": "The vein that carries blood away from all the organs of digestion",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is the biggest concern for dual relationships?",
+      "choices": [
+        "It creates a relationship that is not client centered",
+        "The client might leave the practitioner’s care",
+        "It might compromise the reputation of the practitioner",
+        "The potential for harm"
+      ],
+      "correctAnswer": "The potential for harm",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is a possible adverse effect that could happen for a client with generalized anxiety disorder (GAD) who receives massage therapy?",
+      "choices": [
+        "The therapist falls in love with the client in a case of countertransference",
+        "A careless remark about a mole suggests to the client that she has skin cancer",
+        "The massage causes bruising related to drugs that treat GAD",
+        "The client falls in love with the therapist in a case of transference"
+      ],
+      "correctAnswer": "A careless remark about a mole suggests to the client that she has skin cancer",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The following bones are targeted when performing \"Separate & move bones\" in the foot during the NHI Shiatsu sequence?",
+      "choices": [
+        "Metatarsals",
+        "Tarsals",
+        "Carpals",
+        "Metacarpals"
+      ],
+      "correctAnswer": "Metatarsals",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What are the two divisions of cardiovascular circulation?",
+      "choices": [
+        "Delivery and return",
+        "Arterial and venous",
+        "Pulmonary and systemic",
+        "Cardiac and full body"
+      ],
+      "correctAnswer": "Pulmonary and systemic",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "When spondylosis leads to osteophytes that press on nerve tissue, what are its major symptoms?",
+      "choices": [
+        "Paresthesia, weakness in muscles supplied by affected nerves, headaches",
+        "Poor digestive motility as the vagus nerve is compressed",
+        "Unpredictable bouts of nerve pain that seem unrelated to activity",
+        "Extreme pain in one extremity that can spread to affect the contralateral side"
+      ],
+      "correctAnswer": "Paresthesia, weakness in muscles supplied by affected nerves, headaches",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Wiggling your fingers, as if typing or playing piano, will create an undulating contraction of which muscle?",
+      "choices": [
+        "extensor digitorum",
+        "extensor carpi ulnaris",
+        "extensor carpi radialis longus",
+        "extensor carpi radialis brevis"
+      ],
+      "correctAnswer": "extensor digitorum",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client has drooled on your face cradle cover. Your best course of action is to …",
+      "choices": [
+        "Separate it from your laundry for special cleaning",
+        "Add non-chlorine bleach to the wash cycle",
+        "Turn it over for the next client",
+        "Process it with the rest of your laundry as usual"
+      ],
+      "correctAnswer": "Process it with the rest of your laundry as usual",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "A 45-year-old female client who has a history of chronic neck problems and also a habitual left side sleeper is seeking to get some relief from the tension and stiffness in her neck.\n\nThe therapist observes that the client's neck has a slight rotation towards the left side. Upon taking her through a range of motion assessment, there was an obvious limited movement in rotation of the head and neck to the right. The client also stated a feeling of pulling and tension on the right side of her neck while performing the movement to the right.\n\nWhat is the client's postural deviation?",
+      "choices": [
+        "Rotation of the neck to the right",
+        "Left lateral flexion of the neck",
+        "Neck flexion",
+        "Rotation of the neck to the left"
+      ],
+      "correctAnswer": "Rotation of the neck to the left",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The cause of most urinary tract infections is …",
+      "choices": [
+        "Candidiasis",
+        "Irritation from soaps or douches",
+        "E. Coli infection",
+        "A complication of food poisoning"
+      ],
+      "correctAnswer": "E. Coli infection",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Blaming others for our misfortunes is part of the Pareto Principle",
+      "correctAnswer": false,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following viruses are associated with cancer risk?",
+      "choices": [
+        "Chikungunya, Dengue fever, Hepatitis D, Hepatitis E",
+        "Human papilloma virus, HIV, Epstein-Barr virus, hepatitis B, hepatitis C",
+        "Herpes simplex, herpes zoster, hepatitis A, ebola, rhinovirus",
+        "West Nile virus, severe acute respiratory syndrome (SARS), measles, Norwalk virus, rubella"
+      ],
+      "correctAnswer": "Human papilloma virus, HIV, Epstein-Barr virus, hepatitis B, hepatitis C",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of joint is the tibiofemoral joint?",
+      "choices": [
+        "modified hinge",
+        "ball-and-socket",
+        "ellipsoid",
+        "hinge"
+      ],
+      "correctAnswer": "modified hinge",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "In Trail Guide to the Body, what type of movement is used to distinguish the lengths, shapes and edges of muscles and tendons?",
+      "choices": [
+        "resisted",
+        "contracted",
+        "active",
+        "passive"
+      ],
+      "correctAnswer": "resisted",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Your client is a sedentary 34-year-old woman who is 5’3” and weighs 250 lbs. She has never received massage therapy before, mainly because she is self-conscious about her size. She hopes massage might help her with her low-back and knee pain. What is your best option?",
+      "choices": [
+        "Welcome her and work with her to achieve comfort on the table and to establish her preferred level of pressure",
+        "Welcome her, give her a light massage, and provide referrals to diet and nutrition resources that appear to meet her needs",
+        "Work with her, using knuckles and elbows rather than fingers and hands, to be sure you can access her muscles",
+        "Offer to work with her on a massage chair, or delay her session until you can access a massage table that will tolerate her weight"
+      ],
+      "correctAnswer": "Welcome her and work with her to achieve comfort on the table and to establish her preferred level of pressure",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The cervix is which region of the uterus?",
+      "choices": [
+        "The muscular wall",
+        "Wide central zone",
+        "Narrow distal zone",
+        "Superior dome"
+      ],
+      "correctAnswer": "Narrow distal zone",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is the origin of the biceps brachii’s short head?",
+      "choices": [
+        "supraglenoid tubercle of scapula",
+        "coracoid process of scapula",
+        "acromion of scapula",
+        "infraglenoid tubercle of scapula"
+      ],
+      "correctAnswer": "coracoid process of scapula",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "During which days of the menstrual cycle does menstruation occur?",
+      "choices": [
+        "9 through 20",
+        "1 through 5",
+        "14 through 28",
+        "6 through 14"
+      ],
+      "correctAnswer": "1 through 5",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following muscles of the spine are the most superficial?",
+      "choices": [
+        "suboccipitals",
+        "transversospinalis",
+        "erector spinae",
+        "splenius muscles"
+      ],
+      "correctAnswer": "erector spinae",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which region of the brain is responsible for coordinating voluntary muscle activity and maintaining muscle tone and posture?",
+      "choices": [
+        "Medulla oblongata",
+        "Pons",
+        "Cerebellum",
+        "Cerebrum"
+      ],
+      "correctAnswer": "Cerebellum",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What type of cells go to the interstitial space to clean the injured area:",
+      "choices": [
+        "Sickle Cells",
+        "Red blood cells",
+        "White blood cells",
+        "Cytokines"
+      ],
+      "correctAnswer": "White blood cells",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "Licensure is the most restrictive form of regulation",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which is a part of the insertion of the internal oblique?",
+      "choices": [
+        "external surface of lower five ribs",
+        "internal surface of lower three ribs",
+        "fascia of rectus abdominis",
+        "xiphoid process and costal cartilage"
+      ],
+      "correctAnswer": "internal surface of lower three ribs",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is a realistic claim to make about massage therapy for a person with hammertoe?",
+      "choices": [
+        "Massage therapy cannot affect established hammertoe, but it can help prevent it in the other foot",
+        "If the structures are completely rigid, massage therapy is a local contraindication",
+        "If the structures are not yet completely rigid, massage therapy may help restore balance between toe flexors and extensors",
+        "Massage therapy with other tools can help to reverse the rigidity of long-term hammertoe"
+      ],
+      "correctAnswer": "If the structures are not yet completely rigid, massage therapy may help restore balance between toe flexors and extensors",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following statements best describes the functions of a lymph node?",
+      "choices": [
+        "Absorbs edema and filters it of impurities",
+        "Filters blood and produces white blood cells",
+        "Stores lymph in case of severe trauma",
+        "Filters lymph of impurities and acts as primary site for immune responses"
+      ],
+      "correctAnswer": "Filters lymph of impurities and acts as primary site for immune responses",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If the bacteria involved in small intestinal bacterial overgrowth are aggressive, what are the likely signs and symptoms?",
+      "choices": [
+        "Nausea, food aversion, diarrhea",
+        "Bloating, gas, constipation",
+        "Nothing; this situation is typically silent",
+        "Weakness, fatigue, sensitivity to cold"
+      ],
+      "correctAnswer": "Nausea, food aversion, diarrhea",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following sleep disorders is identified by difficulty in falling asleep or staying asleep long enough to feel rested?",
+      "choices": [
+        "Narcolepsy",
+        "Obstructive sleep apnea",
+        "Central sleep apnea",
+        "Insomnia"
+      ],
+      "correctAnswer": "Insomnia",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which muscle acts as a synergist with teres minor during lateral rotation of the shoulder?",
+      "choices": [
+        "latissimus dorsi",
+        "teres major",
+        "infraspinatus",
+        "subscapularis"
+      ],
+      "correctAnswer": "infraspinatus",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Bladder cancer has a growth pattern that distinguishes it from many other types of cancer. What is it?",
+      "choices": [
+        "It can be eradicated with a chemical wash of the bladder",
+        "It can mimic bladder infections",
+        "It can metastasize before causing any symptoms",
+        "It can grow at different rates in multiple locations in the bladder"
+      ],
+      "correctAnswer": "It can grow at different rates in multiple locations in the bladder",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "The mineralocorticoid hormones are secreted by what endocrine gland?",
+      "choices": [
+        "Posterior pituitary",
+        "Adrenal hypophysis",
+        "Adrenal cortex",
+        "Adrenal medulla"
+      ],
+      "correctAnswer": "Adrenal cortex",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which suboccipital muscle does not attach at the occiput?",
+      "choices": [
+        "oblique capitis superior",
+        "oblique capitis inferior",
+        "rectus capitis posterior minor",
+        "rectus capitis posterior major"
+      ],
+      "correctAnswer": "oblique capitis inferior",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is an action of the buccinator?",
+      "choices": [
+        "flairs the nostril",
+        "raises the lateral portion of the eyebrow",
+        "presses the cheek firmly against the teeth",
+        "depresses the corner of the mouth"
+      ],
+      "correctAnswer": "presses the cheek firmly against the teeth",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "One of the key requirements in all procedures are time limits on when things must be done",
+      "correctAnswer": true,
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of these accessory organs has primary functions of protective and sensory organs?",
+      "choices": [
+        "Hair",
+        "Sudoriferous gland",
+        "Nails",
+        "Sebaceous gland"
+      ],
+      "correctAnswer": "Hair",
+      "explanation": ""
+    },
+    {
+      "type": "multiple_choice",
+      "question": "If ulcerative colitis is left untreated, what is a possible result?",
+      "choices": [
+        "The ulcerations will corrode through the wall of the colon and fecal material will enter the peritoneum",
+        "Chronic irritation of the lining of the colon may lead to colorectal cancer",
+        "A fistula could form, linking the colon to the uterus or the urinary bladder",
+        "Scar tissue might develop at the site of irritation, leading to colon obstruction and a risk of rupture"
+      ],
+      "correctAnswer": "Chronic irritation of the lining of the colon may lead to colorectal cancer",
+      "explanation": ""
+    },
+    {
+      "type": "true_false",
+      "question": "When muscle cells break down the energy molecule adenosine triphosphate (ATP) for contraction, some of that energy is released as heat.",
+      "correctAnswer": true,
+      "explanation": ""
+    }
+  ]
+}

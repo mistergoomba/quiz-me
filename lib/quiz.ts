@@ -19,6 +19,9 @@ interface BaseRaw {
   question: string;
   explanation?: string;
   image?: string;
+  // Optional per-question override for the "explain this" Google search.
+  // When absent, the query is derived from the question (see lib/search.ts).
+  searchQuery?: string;
 }
 
 export interface TrueFalseRaw extends BaseRaw {

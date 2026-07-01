@@ -4,6 +4,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Question } from "@/lib/quiz";
 import { loadSeen, saveSeen, resetSeen, pickNext } from "@/lib/tracking";
+import { buildSearchUrl } from "@/lib/search";
 import {
   checkAnswer,
   trueFalseAnswer,
@@ -115,6 +116,14 @@ export default function Quiz({ questions }: { questions: Question[] }) {
             </>
           )}
           {explanation && <p className="explanation">{explanation}</p>}
+          <a
+            className="explain-link"
+            href={buildSearchUrl(current)}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            🔍 Explain this to me
+          </a>
         </div>
       )}
 
