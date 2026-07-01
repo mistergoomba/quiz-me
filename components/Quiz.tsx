@@ -142,9 +142,6 @@ export default function Quiz({ questions }: { questions: Question[] }) {
             </>
           )}
           {explanation && <p className="explanation">{explanation}</p>}
-          <p className="score">
-            {score.correct} out of {score.answered} correct
-          </p>
           <a
             className="explain-link"
             href={buildSearchUrl(current)}
@@ -164,6 +161,9 @@ export default function Quiz({ questions }: { questions: Question[] }) {
     </main>
 
       <div className="scoreboard">
+        <p className="score">
+          {score.correct} out of {score.answered} correct
+        </p>
         <button className="reset" onClick={handleReset}>
           Reset progress
         </button>
